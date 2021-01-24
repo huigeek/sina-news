@@ -4,10 +4,16 @@
         <title>新浪新闻</title>
         <link>undefined</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sun, 24 Jan 2021 20:49:32 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Jan 2021 21:40:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-CN</language>
+        <item>
+            <title><![CDATA[  【证券日报头版评论：资本市场优化科技监管为有序改革创新赋能】随着资本市场创新进一步深入，以注册制为龙头的改革向市场化、法治化、国际化不断迈进，上市公司的质量、数量、体量都在发生深刻变化。因此，资本市场生态需要继续强化科技监管建设——由个案的成功范例向可复制、可推广的成功范式迈进。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-25/detail-ikftssap0447095.d.html</link>
+            <guid>1989864</guid>
+            <pubDate>Sun, 24 Jan 2021 20:59:19 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[联合国贸易和发展会议（UNCTAD）报告：全球外国直接投资（FDI）在2020年锐减42%，前景仍然偏弱。]]></title>
             <link>https://finance.sina.cn/7x24/2021-01-25/detail-ikftssap0443481.d.html</link>
@@ -595,12 +601,6 @@
             <link>https://finance.sina.cn/7x24/2021-01-24/detail-ikftssap0316912.d.html</link>
             <guid>1989646</guid>
             <pubDate>Sun, 24 Jan 2021 09:22:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【一名美国新冠感染者接种疫苗后数小时死亡】加利福尼亚州普莱瑟县治安官办公室称，一名于12月感染新冠病毒并于1月21日接受COVID-19疫苗接种的美国居民，在接种疫苗数小时后死亡。福克斯电视台指出，目前尚不清楚该疫苗是来自莫德纳还是辉瑞。（俄罗斯卫星网）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-24/detail-ikftpnny1299953.d.html</link>
-            <guid>1989645</guid>
-            <pubDate>Sun, 24 Jan 2021 09:19:41 GMT</pubDate>
         </item>
     </channel>
 </rss>
