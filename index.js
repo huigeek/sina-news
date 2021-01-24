@@ -27,7 +27,7 @@ async function main(){
       id: item.id,
       link: item.docurl,
       content: '',
-      date: new Date(item.create_time)
+      date: new Date(item.create_time + '+08:00')
     })
   })
 
