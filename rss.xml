@@ -4,10 +4,452 @@
         <title>新浪新闻</title>
         <link>undefined</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Fri, 29 Jan 2021 15:30:09 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Jan 2021 16:55:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-CN</language>
+        <item>
+            <title><![CDATA[  美国总统拜登：刺激措施会拉动经济增长，而非拖累经济。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-30/detail-ikftssap1807347.d.html</link>
+            <guid>2001438</guid>
+            <pubDate>Fri, 29 Jan 2021 16:54:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美股大盘下跌之际，海运股集体大涨，中环球船务涨34%，盘中一度涨超60%；Navios海事控股涨超30%，Top Ships盘中一度涨54%；Globus海运盘中一度涨29%。]]></title>
+            <guid>2001437</guid>
+            <pubDate>Fri, 29 Jan 2021 16:53:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国总统拜登：现在必须就刺激措施采取行动，不能推迟。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-30/detail-ikftssap1807314.d.html</link>
+            <guid>2001436</guid>
+            <pubDate>Fri, 29 Jan 2021 16:53:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国总统拜登：投资经济的回报从未有如此之高。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-30/detail-ikftpnny2793393.d.html</link>
+            <guid>2001435</guid>
+            <pubDate>Fri, 29 Jan 2021 16:52:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国总统拜登：不采取刺激行动的代价非常高，且在与日俱增。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-30/detail-ikftpnny2793363.d.html</link>
+            <guid>2001434</guid>
+            <pubDate>Fri, 29 Jan 2021 16:51:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  据u.today网站报道，有用户反馈无法在加密货币交易所Coinbase进行购买操作，该平台暂停使用美元购买加密资产。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-30/detail-ikftpnny2793292.d.html</link>
+            <guid>2001433</guid>
+            <pubDate>Fri, 29 Jan 2021 16:50:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[高斯电子目前上涨128%，今年迄今累涨超27倍。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-30/detail-ikftpnny2793275.d.html</link>
+            <guid>2001432</guid>
+            <pubDate>Fri, 29 Jan 2021 16:50:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[加拿大总理特鲁多：很快将在机场对出行人员进行新冠肺炎病毒检测。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-30/detail-ikftpnny2793040.d.html</link>
+            <guid>2001431</guid>
+            <pubDate>Fri, 29 Jan 2021 16:47:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国总统拜登：等待听取团队关于强生研发的新冠肺炎疫苗的细节。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-30/detail-ikftpnny2792959.d.html</link>
+            <guid>2001430</guid>
+            <pubDate>Fri, 29 Jan 2021 16:45:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[德国将从1月30日开始禁止那些出现新冠肺炎变异毒株感染者地区的人员入境。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-30/detail-ikftpnny2792925.d.html</link>
+            <guid>2001429</guid>
+            <pubDate>Fri, 29 Jan 2021 16:45:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美股白银股延续昨日涨势，迈力达电子涨超12%，Endeavour Silver涨超8%，First Majestic涨6.70%，泛美白银涨4.86%。（美港电讯APP）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-30/detail-ikftpnny2792912.d.html</link>
+            <guid>2001428</guid>
+            <pubDate>Fri, 29 Jan 2021 16:45:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[加拿大和众多航空公司取消往返于加拿大和加勒比海地区及墨西哥的航班服务。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-30/detail-ikftpnny2792858.d.html</link>
+            <guid>2001427</guid>
+            <pubDate>Fri, 29 Jan 2021 16:44:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【英国国家统计局：英格兰新冠病毒感染率仍较高，伦敦最为严重】当地时间29日，据英国广播公司报道，英国国家统计局公布的数据显示，在截至1月23日的一周中，英国新冠肺炎新增病例数与此前相比变化并不大。相关数据表明，英国新冠肺炎疫情正在趋于平稳或可能略有下降，但未达到预期下降速度。英国国家统计局表示，在英格兰地区新冠病毒感染率仍然很高，特别是伦敦的疫情依然最为严重。在英国其他地区新冠病毒感染率已逐渐趋于平稳。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-30/detail-ikftpnny2792844.d.html</link>
+            <guid>2001426</guid>
+            <pubDate>Fri, 29 Jan 2021 16:43:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【欧洲股市收盘】德国DAX30指数1月29日（周五） 收盘下跌233.83点，跌幅1.71%，报13432.10点;英国富时100指数1月29日（周五） 收盘下跌129.95点，跌幅1.99%，报6396.20点;法国CAC40指数1月29日（周五） 收盘下跌111.31点，跌幅2.02%，报5399.21点;欧洲斯托克50指数1月29日（周五） 收盘下跌74.39点，跌幅2.09%，报3482.65点;西班牙IBEX35指数1月29日（周五） 收盘下跌181.50点，跌幅2.29%，报7751.00点;意大利富时MIB指数1月29日（周五） 收盘下跌354.00点，跌幅1.62%，报21562.50点。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-30/detail-ikftssap1806709.d.html</link>
+            <guid>2001425</guid>
+            <pubDate>Fri, 29 Jan 2021 16:42:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【深圳将召银行开会？有银行已在严查房贷流水】知情人士透露，近日深圳银保监局将就深圳市场的房贷额度、主动调控和贷款利率等问题进行研讨。有银行业人士推测，会议可能是为贯彻央行和银保监会出台的房地产贷款集中度管理制度，让各家银行严格落实“两条红线”，压降房贷额度。“最近深圳银行在严查购房人流水，银行只认三种有效流水。”一位贷款中介表示。这三种流水分别是工资流水、转账流水、自存流水。在对流水的评估中，当天进当天出、或者当天进第二天出的短期流水，都会被视为无效。（券商中国）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-30/detail-ikftpnny2792731.d.html</link>
+            <guid>2001424</guid>
+            <pubDate>Fri, 29 Jan 2021 16:41:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国纽约州新增12579例新冠肺炎病例，新增151例死亡病例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-30/detail-ikftssap1806580.d.html</link>
+            <guid>2001423</guid>
+            <pubDate>Fri, 29 Jan 2021 16:40:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国国家过敏症和传染病研究所所长福奇：全国范围内可能出现新冠病毒的变种毒株，将继续观察这些毒株的变异。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-30/detail-ikftpnny2792588.d.html</link>
+            <guid>2001422</guid>
+            <pubDate>Fri, 29 Jan 2021 16:40:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【海航控股：公司股票可能被实施退市风险警示】海航控股晚间公告称，公司预计2020年度净利润为负，并将导致2020年度期末净资产为负值。根据上海证券交易所《股票上市规则》的有关规定，公司股票可能被实施退市风险警示。（一财）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-30/detail-ikftpnny2792505.d.html</link>
+            <guid>2001421</guid>
+            <pubDate>Fri, 29 Jan 2021 16:38:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【海航控股2020年预亏580亿-650亿 将创下A股上市公司亏损记录】海航控股发布公告称，经海南航空控股股份有限公司（以下简称“公司”）财务部门初步测算，预计公司 2020 年度实现归属于上市公司股东的净利润为-5800000 万元至-6500000 万元。这一亏损额度将创下A股上市公司亏损记录。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-30/detail-ikftpnny2792282.d.html</link>
+            <guid>2001420</guid>
+            <pubDate>Fri, 29 Jan 2021 16:36:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[意大利五星运动党：我们希望与前总理伦齐所属党派合并。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-30/detail-ikftssap1806159.d.html</link>
+            <guid>2001419</guid>
+            <pubDate>Fri, 29 Jan 2021 16:34:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  克里姆林宫：俄罗斯总统普京签署的有关批准《新削减战略武器条约》的法律，将在正式公布当日生效。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-30/detail-ikftssap1806153.d.html</link>
+            <guid>2001418</guid>
+            <pubDate>Fri, 29 Jan 2021 16:34:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国国家过敏症和传染病研究所所长、总统拜登的首席医疗顾问福奇：希望儿童可以在2021年春季后期、夏季前期开始接种新冠肺炎疫苗。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-30/detail-ikftssap1806141.d.html</link>
+            <guid>2001417</guid>
+            <pubDate>Fri, 29 Jan 2021 16:34:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[欧洲STOXX 600指数初步收跌1.41%，报397.71点。德国DAX 30指数初步收跌1.06%，报13521.96点。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-30/detail-ikftpnny2792066.d.html</link>
+            <guid>2001416</guid>
+            <pubDate>Fri, 29 Jan 2021 16:33:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：美国伊朗问题特使在周四与英国、法国和德国政治领导人通话评估局势。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-30/detail-ikftpnny2791928.d.html</link>
+            <guid>2001415</guid>
+            <pubDate>Fri, 29 Jan 2021 16:31:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  意大利新增13574例新冠肺炎确诊病例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-30/detail-ikftpnny2791897.d.html</link>
+            <guid>2001414</guid>
+            <pubDate>Fri, 29 Jan 2021 16:31:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  据媒体消息：法国政府将于当地时间18:00（北京时间30日01:00）举行新冠病毒特别会议。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-30/detail-ikftpnny2791876.d.html</link>
+            <guid>2001413</guid>
+            <pubDate>Fri, 29 Jan 2021 16:31:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国总统拜登：需要进行投资以保证经济增长。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-30/detail-ikftssap1805809.d.html</link>
+            <guid>2001412</guid>
+            <pubDate>Fri, 29 Jan 2021 16:31:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【供销大集：债权人向法院申请对公司进行重整】供销大集晚间公告称，收到海南省高级人民法院送达的《通知书》，债权人北京睿达信房地产评估有限公司以公司不能清偿到期债务且明显缺乏清偿能力为由，向法院申请对公司进行重整。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-30/detail-ikftpnny2791082.d.html</link>
+            <guid>2001411</guid>
+            <pubDate>Fri, 29 Jan 2021 16:23:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  诺瓦瓦克斯CEO：公司正在研究新冠和流感二联疫苗。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-30/detail-ikftssap1804749.d.html</link>
+            <guid>2001410</guid>
+            <pubDate>Fri, 29 Jan 2021 16:21:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国参议员沃伦要求美国证交会更新并界定市场操纵规则，要求美国证交会采取措施确保价格反映基本面。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-30/detail-ikftssap1804497.d.html</link>
+            <guid>2001409</guid>
+            <pubDate>Fri, 29 Jan 2021 16:19:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国参议员沃伦要求美国证交会解释游戏驿站价格变动的公平性，要求美国证交会回答对冲基金是否影响了游戏驿站的价格波动。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-30/detail-ikftpnny2790472.d.html</link>
+            <guid>2001408</guid>
+            <pubDate>Fri, 29 Jan 2021 16:19:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  世界卫生组织助理总干事：欧盟的疫苗出口禁令是令人担忧的趋势。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-30/detail-ikftssap1804038.d.html</link>
+            <guid>2001407</guid>
+            <pubDate>Fri, 29 Jan 2021 16:15:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  诺瓦瓦克斯CEO：预计英国首先批准使用公司的疫苗。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-30/detail-ikftpnny2789883.d.html</link>
+            <guid>2001406</guid>
+            <pubDate>Fri, 29 Jan 2021 16:14:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[诺瓦瓦克斯与美国食品药品监督管理局（FDA）讨论提交疫苗紧急使用授权（EUA）申请。]]></title>
+            <guid>2001405</guid>
+            <pubDate>Fri, 29 Jan 2021 16:14:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  世卫首席科学家Swaminathan：希望在两周内得到阿斯利康新冠疫苗的紧急使用清单。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-30/detail-ikftssap1803666.d.html</link>
+            <guid>2001404</guid>
+            <pubDate>Fri, 29 Jan 2021 16:11:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【波罗的海干散货指数本周累跌近20% 录得七周来首个周线下跌】波罗的海干散货指数周五连续第六个交易日录得下跌，为七周以来首次录得周线下跌。波罗的海干散货指数周五下跌18点或1.2%，至1452点，本周跌近20%，本月累涨6.2%，为连续第二个月上涨。海岬型船运价指数下跌55点或2.8%，至1890点，为逾一个月低位，本周跌约36%，为2020年五月底以来最差周度表现，日均获利下跌458美元至15675美元。巴拿马型船运价指数上涨2点或0.1%，至1633点，本周累跌1.6%，日均获利上涨15美元至1495美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-30/detail-ikftpnny2789218.d.html</link>
+            <guid>2001403</guid>
+            <pubDate>Fri, 29 Jan 2021 16:07:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  市场消息：快手科技香港IPO规模约45亿美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-30/detail-ikftssap1803236.d.html</link>
+            <guid>2001402</guid>
+            <pubDate>Fri, 29 Jan 2021 16:07:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  市场消息：快手科技香港IPO定价在区间顶端（115港元/股）。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-30/detail-ikftpnny2789069.d.html</link>
+            <guid>2001401</guid>
+            <pubDate>Fri, 29 Jan 2021 16:06:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【“超级城市”的全球扩散】随着人口从乡村向城市迁移，拥有1千万以上居民的城市，即所谓的“超级城市”，正变得越来越普遍。超级城市意味着更多向上流动的社会机遇、更高的薪资待遇——但同时也是Covid-19这样的流行病滋生与蔓延的温床。城市化正在迅速推进，世界人口现在有一半以上居住在城市里，新德里和上海这样的亚洲城市发展尤为迅速。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-30/detail-ikftpnny2789028.d.html</link>
+            <guid>2001400</guid>
+            <pubDate>Fri, 29 Jan 2021 16:05:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[英国新增29079例新冠肺炎病例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-30/detail-ikftpnny2788694.d.html</link>
+            <guid>2001399</guid>
+            <pubDate>Fri, 29 Jan 2021 16:03:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  欧洲药品管理局（EMA）：阿斯利康新冠疫苗对老年人有“一定的保护作用”。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-30/detail-ikftpnny2788488.d.html</link>
+            <guid>2001398</guid>
+            <pubDate>Fri, 29 Jan 2021 16:01:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  金融科技和分析公司S3 Partners：过去7天，游戏驿站空头头寸下降了8%，至5783万股。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-30/detail-ikftpnny2788402.d.html</link>
+            <guid>2001397</guid>
+            <pubDate>Fri, 29 Jan 2021 16:00:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  金融科技和分析公司S3 Partners：游戏驿站空头头寸规模仅次于特斯拉和苹果，位列第三。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-29/detail-ikftssap1802378.d.html</link>
+            <guid>2001396</guid>
+            <pubDate>Fri, 29 Jan 2021 15:59:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  金融科技和分析公司S3 Partners：游戏驿站空头头寸规模112亿美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-29/detail-ikftpnny2788192.d.html</link>
+            <guid>2001395</guid>
+            <pubDate>Fri, 29 Jan 2021 15:57:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  金融数据公司S3 Partners数据显示，按市值计价，今年迄今为止游戏驿站看空者的损失为197.5亿美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-29/detail-ikftssap1802288.d.html</link>
+            <guid>2001394</guid>
+            <pubDate>Fri, 29 Jan 2021 15:57:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国所有股票和指数的看涨期权总量猛增。德意志银行分析师Jim Reid表示：“历史上许多泡沫都是通过杠杆交易的增加而产生的，这种模式无疑正在这里重演。”]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-29/detail-ikftssap1802258.d.html</link>
+            <guid>2001393</guid>
+            <pubDate>Fri, 29 Jan 2021 15:56:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  欧洲药品管理局（EMA）：接种了阿斯利康新冠疫苗的人应接受监测15分钟。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-29/detail-ikftpnny2788081.d.html</link>
+            <guid>2001392</guid>
+            <pubDate>Fri, 29 Jan 2021 15:55:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  欧洲药品管理局副主席SEPODES：新冠疫苗关于孕妇的数据非常有限，但我们希望阿斯利康疫苗能起到保护作用。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-29/detail-ikftssap1802171.d.html</link>
+            <guid>2001391</guid>
+            <pubDate>Fri, 29 Jan 2021 15:54:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[媒体消息：莫德纳将向波兰的疫苗供应削减25%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-29/detail-ikftssap1802140.d.html</link>
+            <guid>2001390</guid>
+            <pubDate>Fri, 29 Jan 2021 15:53:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  欧洲药品管理局副主席SEPODES：孕妇的疫苗接种应该根据具体情况进行考虑。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-29/detail-ikftssap1802123.d.html</link>
+            <guid>2001389</guid>
+            <pubDate>Fri, 29 Jan 2021 15:53:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  意大利联盟党主席萨尔维尼告诉意大利总统马塔雷拉，中右翼想要选举。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-29/detail-ikftssap1802070.d.html</link>
+            <guid>2001388</guid>
+            <pubDate>Fri, 29 Jan 2021 15:53:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  欧洲药品管理局（EMA）：没有理由认为阿斯利康疫苗对新冠病毒变异毒株无效。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-29/detail-ikftssap1802016.d.html</link>
+            <guid>2001387</guid>
+            <pubDate>Fri, 29 Jan 2021 15:52:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  欧洲药品管理局副主席SEPODES：mRNA和阿斯利康的新冠疫苗应该相对容易适应新毒株。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-29/detail-ikftpnny2787882.d.html</link>
+            <guid>2001386</guid>
+            <pubDate>Fri, 29 Jan 2021 15:52:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  欧洲药品管理局（EMA）：预计阿斯利康新冠疫苗对孕妇而言没有风险。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-29/detail-ikftssap1801959.d.html</link>
+            <guid>2001385</guid>
+            <pubDate>Fri, 29 Jan 2021 15:51:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  欧洲药品管理局（EMA）：预计将在第一季度末获得阿斯利康在美国的新冠疫苗试验数据。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-29/detail-ikftpnny2787775.d.html</link>
+            <guid>2001384</guid>
+            <pubDate>Fri, 29 Jan 2021 15:50:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国财长耶伦将于十分钟后向美国总统拜登、副总统哈里斯做简报。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-29/detail-ikftssap1801903.d.html</link>
+            <guid>2001383</guid>
+            <pubDate>Fri, 29 Jan 2021 15:50:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  世界卫生组织总干事谭德塞：疫苗国家主义目光短浅，弄巧成拙。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-29/detail-ikftpnny2787537.d.html</link>
+            <guid>2001382</guid>
+            <pubDate>Fri, 29 Jan 2021 15:47:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  世界卫生组织总干事谭德塞：低风险人群需要等待疫苗接种。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-29/detail-ikftpnny2787479.d.html</link>
+            <guid>2001381</guid>
+            <pubDate>Fri, 29 Jan 2021 15:46:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  白宫新闻发言人：拜登的主要目标是避免将刺激计划一分为二。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-29/detail-ikftssap1801597.d.html</link>
+            <guid>2001380</guid>
+            <pubDate>Fri, 29 Jan 2021 15:45:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  欧洲药品管理局局长Cooke：即使有了疫苗，我们也需要新冠肺炎的治疗方案。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-29/detail-ikftpnny2787410.d.html</link>
+            <guid>2001379</guid>
+            <pubDate>Fri, 29 Jan 2021 15:45:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[诺瓦瓦克斯股价涨幅扩大至76%，创2020年5月份以来最大盘中涨幅，刷新2015年8月份以来盘中高位至235.50美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-29/detail-ikftpnny2787310.d.html</link>
+            <guid>2001378</guid>
+            <pubDate>Fri, 29 Jan 2021 15:43:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  欧洲药品管理局局长Cooke：没有数据表明阿斯利康疫苗是否对变种新冠病毒有效。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-29/detail-ikftssap1801381.d.html</link>
+            <guid>2001377</guid>
+            <pubDate>Fri, 29 Jan 2021 15:42:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[ 现货钯金日内跌超3%，现报2263.08美元/盎司。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-29/detail-ikftssap1801362.d.html</link>
+            <guid>2001376</guid>
+            <pubDate>Fri, 29 Jan 2021 15:42:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  白宫新闻发言人：在最近的股市波动问题上，将遵从美国证交会（的决定）。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-29/detail-ikftssap1801330.d.html</link>
+            <guid>2001375</guid>
+            <pubDate>Fri, 29 Jan 2021 15:42:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  欧洲药品管理局局长Cooke：阿斯利康的疫苗评估具有挑战性。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-29/detail-ikftssap1801305.d.html</link>
+            <guid>2001374</guid>
+            <pubDate>Fri, 29 Jan 2021 15:41:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  白宫新闻发言人：前任政府在国家安全方面采取的一切措施都在评估之中。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-29/detail-ikftpnny2786979.d.html</link>
+            <guid>2001373</guid>
+            <pubDate>Fri, 29 Jan 2021 15:40:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[在岸人民币兑美元（CNY）北京时间23:30收报6.4300元，较周四夜盘收盘涨200点。成交量358.70亿美元，较周四减少39.28亿美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-29/detail-ikftssap1801066.d.html</link>
+            <guid>2001372</guid>
+            <pubDate>Fri, 29 Jan 2021 15:39:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  嘉信理财、德美丽证券不允许客户裸出售看涨期权。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-29/detail-ikftpnny2786771.d.html</link>
+            <guid>2001371</guid>
+            <pubDate>Fri, 29 Jan 2021 15:38:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[嘉信理财、德美利证券移除针对GME股票的保证金要求。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-29/detail-ikftpnny2786676.d.html</link>
+            <guid>2001370</guid>
+            <pubDate>Fri, 29 Jan 2021 15:37:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  嘉信理财：并没有停止股票交易。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-29/detail-ikftssap1800726.d.html</link>
+            <guid>2001369</guid>
+            <pubDate>Fri, 29 Jan 2021 15:36:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  德国联邦金融监管局主席Hufeld辞职。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-29/detail-ikftssap1800566.d.html</link>
+            <guid>2001368</guid>
+            <pubDate>Fri, 29 Jan 2021 15:34:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【吉尔吉斯总统签署命令 禁止外企开采国家级矿产资源】吉尔吉斯新任总统扎帕罗夫的新闻处发布消息称，扎帕罗夫签署命令禁止外资企业开采国家级矿产资源，但新规定不具追溯力。新闻处指出：“根据这份命令，国家级矿区将完全由注册资本100%为国有资本的国有采矿企业开采，《矿业法》通过时已获得相关许可证和已经在开采国家级矿区的企业不受此限。”]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-29/detail-ikftpnny2786282.d.html</link>
+            <guid>2001367</guid>
+            <pubDate>Fri, 29 Jan 2021 15:31:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  白宫新闻发言人：国防生产法案将用于注射器和个人防护用品。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-29/detail-ikftssap1800343.d.html</link>
+            <guid>2001366</guid>
+            <pubDate>Fri, 29 Jan 2021 15:31:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  市场消息：Reddit上wallstreetbets群组拥有超过600万名成员。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-29/detail-ikftpnny2786153.d.html</link>
+            <guid>2001365</guid>
+            <pubDate>Fri, 29 Jan 2021 15:30:19 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  荷兰首相吕特：关注荷兰项目的疫苗供应情况。]]></title>
             <link>https://finance.sina.cn/7x24/2021-01-29/detail-ikftssap1800088.d.html</link>
@@ -161,450 +603,6 @@
             <link>https://finance.sina.cn/7x24/2021-01-29/detail-ikftssap1798116.d.html</link>
             <guid>2001339</guid>
             <pubDate>Fri, 29 Jan 2021 15:08:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  白宫新闻发言人：美国总统拜登将在下周二签署移民的行政令。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-29/detail-ikftssap1798041.d.html</link>
-            <guid>2001338</guid>
-            <pubDate>Fri, 29 Jan 2021 15:07:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  欧盟卫生事务专员Stella Kyriakides：疫苗出口措施并没有针对特定国家。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-29/detail-ikftpnny2783940.d.html</link>
-            <guid>2001337</guid>
-            <pubDate>Fri, 29 Jan 2021 15:06:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  欧盟委员会副主席东布罗夫斯基斯：有一长串免除疫苗出口措施的国家。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-29/detail-ikftssap1797896.d.html</link>
-            <guid>2001336</guid>
-            <pubDate>Fri, 29 Jan 2021 15:05:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  机构评美国12月成屋签约销售指数月率：受待售房屋短缺拖累，12月美国成屋购买合同数量连续第四个月录得下降，这推高了房价。2020年，现房销售量达到14年来的最高水平。美国房产经纪协会NAR首席经济学家Lawrence Yun在一份声明中称，"住房需求很高，潜在买家人数众多。这种需求上升而供应没有显著增加的情况，已经导致房价上涨，我们可以预期在可预见的未来，房价将面临进一步的上行压力。"]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-29/detail-ikftpnny2783764.d.html</link>
-            <guid>2001335</guid>
-            <pubDate>Fri, 29 Jan 2021 15:05:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  西伯特金融（SIEB）暴涨365%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-29/detail-ikftpnny2783390.d.html</link>
-            <guid>2001334</guid>
-            <pubDate>Fri, 29 Jan 2021 15:02:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【亿晶光电业绩预告：2020年度预亏6.6亿元 亏损扩大】亿晶光电公告，预计2020年度实现归属于上市公司股东的净利润与上年同期相比仍为亏损，归属于上市公司股东的净亏损约为6.6亿元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-29/detail-ikftpnny2783300.d.html</link>
-            <guid>2001333</guid>
-            <pubDate>Fri, 29 Jan 2021 15:01:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  市场消息：英国免佣金交易平台Freetrade禁止美国股票的买入指令。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-29/detail-ikftpnny2783258.d.html</link>
-            <guid>2001332</guid>
-            <pubDate>Fri, 29 Jan 2021 15:01:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国1月密歇根大学消费者信心指数终值79，前值79.2，预期79.2。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-29/detail-ikftpnny2783246.d.html</link>
-            <guid>2001331</guid>
-            <pubDate>Fri, 29 Jan 2021 15:00:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国12月成屋签约销售指数月率-0.3%，前值-2.60%，预期-0.1%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-29/detail-ikftssap1797254.d.html</link>
-            <guid>2001330</guid>
-            <pubDate>Fri, 29 Jan 2021 15:00:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  据土库曼斯坦“东方网”援引政府消息报道，土库曼斯坦注册了俄罗斯第二款新冠疫苗EpiVacCorona。（卫星新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-29/detail-ikftssap1797170.d.html</link>
-            <guid>2001329</guid>
-            <pubDate>Fri, 29 Jan 2021 15:00:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧盟卫生事务专员Stella Kyriakides：将保护欧盟疫苗投资的完整性。欧盟疫苗措施是一种“保险政策” 。评估疫苗出口的主要标准是满足欧盟的疫苗需求。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-29/detail-ikftssap1797131.d.html</link>
-            <guid>2001328</guid>
-            <pubDate>Fri, 29 Jan 2021 14:59:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[现货白银短线走高0.24美元，现报27.16美元/盎司，此前最低跌至26.94美元/盎司。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-29/detail-ikftpnny2782645.d.html</link>
-            <guid>2001327</guid>
-            <pubDate>Fri, 29 Jan 2021 14:55:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[现货黄金短线回升近10美元，现报1861.63美元/盎司。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-29/detail-ikftssap1796658.d.html</link>
-            <guid>2001326</guid>
-            <pubDate>Fri, 29 Jan 2021 14:55:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧盟委员会副主席东布罗夫斯基斯：所有的预购协议都必须遵守。 此规定的目的是提供完全的透明度。 最重要的是为公民提供疫苗。 这项措施将持续到3月底。 将把这一措施通知世界卫生组织。 欧盟为疫苗生产商提供了预融资。欧盟的提前采购协议必须得到尊重。现在欧盟疫苗出口有监控系统。欧盟成员国将准备疫苗出口授权。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-29/detail-ikftpnny2782552.d.html</link>
-            <guid>2001325</guid>
-            <pubDate>Fri, 29 Jan 2021 14:54:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【神州高铁业绩预告：2020年度预亏7亿-9.5亿元 由盈转亏】神州高铁公告，预计2020年度归属于上市公司股东的净亏损7亿元-9.5亿元，上年同期盈利4.34亿元。2020年疫情对交通运输行业造成冲击，铁路、地铁等上游客户的日常运输组织以及项目建设施工、采购招标和交付验收等工作均受到不同程度影响，造成公司项目整体执行进度放缓、周期延长，特别是部分计划内项目四季度验收未达预期，导致公司全年营业收入同比下降约40%。公司拟对部分子公司所在资产组的商誉计提减值准备，减值准备金额合计约为5亿元至6.5亿元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-29/detail-ikftssap1796562.d.html</link>
-            <guid>2001324</guid>
-            <pubDate>Fri, 29 Jan 2021 14:54:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  欧盟表示，制药商出口疫苗必须事先获得批准。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-29/detail-ikftpnny2782299.d.html</link>
-            <guid>2001323</guid>
-            <pubDate>Fri, 29 Jan 2021 14:52:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【商务部部长王文涛出席世贸组织小型部长会议】王文涛指出，中方愿与各方共同维护多边贸易体制，推进世贸组织改革，推动世贸组织发挥更大作用。为此，中方支持尽快根据遴选委员会的提议任命世贸组织新任总干事，恢复上诉机构运行，增强国际社会对多边主义的信心。中方将继续以建设性的态度参与渔业补贴谈判，支持投资便利化、电子商务、粮食安全公共储备等议题谈判取得积极进展。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-29/detail-ikftpnny2782127.d.html</link>
-            <guid>2001322</guid>
-            <pubDate>Fri, 29 Jan 2021 14:50:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  ST康美公告，2020年预亏148.5亿元至178.2亿元。公司本次业绩预亏的主要原因是公司还本付息导致现金流紧张造成销售收入大幅下降。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-29/detail-ikftssap1796052.d.html</link>
-            <guid>2001321</guid>
-            <pubDate>Fri, 29 Jan 2021 14:50:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【搜于特下修业绩预告：2020年预亏7.8亿元-9.8亿元】搜于特披露2020年度业绩预告修正公告，修正后，预计归属于上市公司股东的净亏损7.8亿元~9.8亿元。2020年受疫情影响，公司品牌服饰业务及供应链管理业务销售下滑，造成公司库存积压大，资金回笼慢，为了清理库存、缓解公司资金压力，公司2020年11月、12月主要对品牌服饰业务库存大力度降价促销导致亏损。根据库存商品的情况计提存货跌价准备。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-29/detail-ikftpnny2781982.d.html</link>
-            <guid>2001320</guid>
-            <pubDate>Fri, 29 Jan 2021 14:50:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【天汽模业绩预告：2020年度预亏7.68亿元-11.52亿元 由盈转亏】天汽模公告，预计2020年年度归属于上市公司股东的净亏损7.68亿元-11.52亿元，上年同期盈利8913.14万元。2020年度，主要受全球新冠疫情蔓延对汽车相关行业的不利影响，公司经营业绩大幅下滑。汽车模具需求受经济周期波动影响大。全球宏观经济快速大幅衰退，直接给模具行业造成不利影响，波及到公司的经营业绩。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-29/detail-ikftpnny2781934.d.html</link>
-            <guid>2001319</guid>
-            <pubDate>Fri, 29 Jan 2021 14:49:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国1月芝加哥PMI录得63.8，创2019年2月以来新高。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-29/detail-ikftssap1795772.d.html</link>
-            <guid>2001318</guid>
-            <pubDate>Fri, 29 Jan 2021 14:48:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[现货黄金持续下挫，现报1855.03美元/盎司，日内涨幅收窄至0.73%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-29/detail-ikftssap1795568.d.html</link>
-            <guid>2001317</guid>
-            <pubDate>Fri, 29 Jan 2021 14:46:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国1月芝加哥PMI公布63.8，前值58.7，预期58.5。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-29/detail-ikftssap1795548.d.html</link>
-            <guid>2001316</guid>
-            <pubDate>Fri, 29 Jan 2021 14:46:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  市场消息：用户报告Reddit出现了问题。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-29/detail-ikftpnny2781255.d.html</link>
-            <guid>2001315</guid>
-            <pubDate>Fri, 29 Jan 2021 14:43:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美国联邦航空管理局（FAA）：SpaceX公司SN9星舰取消了今天的飞行。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-29/detail-ikftpnny2781054.d.html</link>
-            <guid>2001314</guid>
-            <pubDate>Fri, 29 Jan 2021 14:42:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【北汽蓝谷业绩预告：2020年预亏60亿元至65亿元】北汽蓝谷公告，2020年预亏60亿元至65亿元。影响公司年度业绩预亏的主要原因是受新冠肺炎疫情等因素影响，公司产销量未达预期。随着市场竞争的加剧，公司增大产品结构调整和更新换代力度的同时对现有车型加大促销，经测算，存货可变现净值低于成本，存在减值迹象，因此根据公司会计政策，对期末库存计提了较大金额的跌价准备，对公司业绩影响金额约为12亿元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-29/detail-ikftssap1794936.d.html</link>
-            <guid>2001313</guid>
-            <pubDate>Fri, 29 Jan 2021 14:41:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美国共和党议员KHANNA：美国在线券商Robinhood CEO必须回答其是否与Citadel证券的任何人讨论过Robinhood所采取的行动。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-29/detail-ikftssap1794746.d.html</link>
-            <guid>2001312</guid>
-            <pubDate>Fri, 29 Jan 2021 14:41:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美股三大指数均跌超1%，道指跌超400点。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-29/detail-ikftpnny2780553.d.html</link>
-            <guid>2001311</guid>
-            <pubDate>Fri, 29 Jan 2021 14:40:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【道明证券：英国央行在当前经济周期下不太可能实施负利率】道明证券认为，可能会在英国央行在下周的会议中得出这样一个结论：尽管负利率应该是工具箱的一部分，而且目前利率下限低于零，但负利率不会很快出现，而且不太可能在当前经济周期中实施。英国央行货币政策会议给英镑兑美元GBP/USD带来了双重风险，因为市场将权衡跌入负利率的可能性和时机。虽然这不是我们的基线预期，但近期出现的信号可能会让英镑大幅走弱。我们认为英镑最近相对出色的表现可能即将结束，因为它的反转头寸和估值成为担忧。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-29/detail-ikftssap1794520.d.html</link>
-            <guid>2001310</guid>
-            <pubDate>Fri, 29 Jan 2021 14:40:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[AMC院线停牌，此前涨54%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-29/detail-ikftssap1793909.d.html</link>
-            <guid>2001308</guid>
-            <pubDate>Fri, 29 Jan 2021 14:37:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[比特币短线急挫1000美元，现报37139.4美元/枚。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-29/detail-ikftssap1793581.d.html</link>
-            <guid>2001307</guid>
-            <pubDate>Fri, 29 Jan 2021 14:35:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[特殊目的收购公司Property Solutions Acquisition涨超29%，公司和法拉第未来达成最终合并协议。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-29/detail-ikftssap1793407.d.html</link>
-            <guid>2001306</guid>
-            <pubDate>Fri, 29 Jan 2021 14:34:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ 【多只散户热门股盘初熔断，投资者关注香橼转向和美国SEC对近期美国股市骚动的介入】游戏驿站（GME）触发熔断，熔断前涨幅为83.03%。 高斯电子（KOSS）触发熔断，熔断前涨幅为63.73%。 Express触发熔断，熔断前涨幅为40.64%。 AMC院线目前涨55.27%，黑莓（BB）涨16.9%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-29/detail-ikftssap1793372.d.html</link>
-            <guid>2001305</guid>
-            <pubDate>Fri, 29 Jan 2021 14:34:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【黄河旋风业绩预告：2020年度预亏9.61亿元 由盈转亏】黄河旋风公告，预计2020年度经营业绩与上年同期相比，将出现亏损，实现归属于上市公司股东的净利润为-9.61亿元左右。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-29/detail-ikftpnny2779134.d.html</link>
-            <guid>2001304</guid>
-            <pubDate>Fri, 29 Jan 2021 14:33:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  WSB概念股暴涨，高斯电子涨超80%，AMC院线涨近70%，Naked Brand涨近50%，黑莓涨近20%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-29/detail-ikftpnny2778957.d.html</link>
-            <guid>2001303</guid>
-            <pubDate>Fri, 29 Jan 2021 14:31:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【ST康美：2020年预亏148.5亿至178.2亿元】ST康美今晚公告，2020年预亏148.5亿元至178.2亿元。公司本次业绩预亏的主要原因是公司还本付息导致现金流紧张造成销售收入大幅下降。同时，按照审慎原则，公司对2020年度合并报表范围内的商誉、应收账款、固定资产、在建工程、存货等计提大额减值。若剔除大额减值因素等影响，公司核心业务保持稳定。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-29/detail-ikftssap1792903.d.html</link>
-            <guid>2001302</guid>
-            <pubDate>Fri, 29 Jan 2021 14:31:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【道指开盘跌0.7%，标普500跌0.6%，纳指跌0.4%】WSB概念股再度暴涨，游戏驿站涨99.5%，高斯电子涨68.0%，AMC院线涨67.4%。此前多家券商解除对游戏驿站及AMC院线的交易限制。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-29/detail-ikftssap1792826.d.html</link>
-            <guid>2001301</guid>
-            <pubDate>Fri, 29 Jan 2021 14:30:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美国证交会声明：正在调查市场是否存在潜在的不当行为。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-29/detail-ikftpnny2778727.d.html</link>
-            <guid>2001300</guid>
-            <pubDate>Fri, 29 Jan 2021 14:30:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  现货白银短线急挫0.5美元，日内涨幅收窄至2.5%，现报27.21美元/盎司。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-29/detail-ikftssap1792687.d.html</link>
-            <guid>2001299</guid>
-            <pubDate>Fri, 29 Jan 2021 14:29:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[现货黄金短线跳水10美元，最低至1865.79美元/盎司。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-29/detail-ikftssap1792619.d.html</link>
-            <guid>2001298</guid>
-            <pubDate>Fri, 29 Jan 2021 14:29:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【新宁物流业绩预告：2020年度预亏3.6亿元–5.2亿元】新宁物流公告，预计2020年度归属于上市公司股东的净亏损3.6亿元–5.2亿元，上年同期亏损5.82亿元。经公司管理层对各类资产于2020年年末的初步减值测算，公司对应收款项、存货、商誉、无形资产等计提了较大幅度的减值损失。本年度对深圳子公司火灾事项计提预计负债约1380万元，计提金额计入营业外支出科目，本项目属于非经常性损益。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-29/detail-ikftssap1792536.d.html</link>
-            <guid>2001297</guid>
-            <pubDate>Fri, 29 Jan 2021 14:28:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国证交会声明：市场参与者应小心避免“非法”操纵交易活动，发行人必须确保遵守美国证券法。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-29/detail-ikftpnny2778252.d.html</link>
-            <guid>2001296</guid>
-            <pubDate>Fri, 29 Jan 2021 14:26:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【中信国安业绩预告：2020年度预亏18.5亿元-22亿元】中信国安公告，预计2020年度归属于上市公司股东的净亏损18.5亿元-22亿元，上年同期为盈利648.83万元。多家机构以所持有的各地有线电视网络股权资产向中国广电网络股份有限公司进行出资，预计对公司所持河南有线电视网络集团有限公司24.5%长期股权投资计提减值准备14.8亿元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-29/detail-ikftssap1792104.d.html</link>
-            <guid>2001295</guid>
-            <pubDate>Fri, 29 Jan 2021 14:25:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【国家电网：目前新能源并网装机达4.5亿千瓦 占总装机容量的26%】从1月29日召开的国家电网有限公司“碳达峰、碳中和”院士、专家座谈会上获悉，目前公司经营区新能源并网装机达到4.5亿千瓦，占总装机容量的26%，新能源利用率达到97.1%，电能占终端能源消费比重达到27%左右。“十三五”期间，公司累计消纳清洁能源7.4万亿千瓦时，相当于减少煤炭燃烧23亿吨，减排二氧化碳57亿吨。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-29/detail-ikftpnny2778011.d.html</link>
-            <guid>2001294</guid>
-            <pubDate>Fri, 29 Jan 2021 14:24:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美国证交会声明：价格波动会造成损失，破坏市场信心。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-29/detail-ikftssap1792024.d.html</link>
-            <guid>2001293</guid>
-            <pubDate>Fri, 29 Jan 2021 14:24:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美国证交会声明：正在与美国金融业监管局和证券交易所密切合作。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-29/detail-ikftpnny2777782.d.html</link>
-            <guid>2001292</guid>
-            <pubDate>Fri, 29 Jan 2021 14:23:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国证交会声明：正在密切关注极端的价格波动，将对限制交易能力的实体行为进行审查，将努力保护投资者以维护市场公平，也保护散户免受操纵交易的影响。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-29/detail-ikftssap1791546.d.html</link>
-            <guid>2001289</guid>
-            <pubDate>Fri, 29 Jan 2021 14:21:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【广东省卫健委：不再收取新冠病毒核酸检测挂号费】广东省卫生健康委1月29日下发通知，明确全省不再收取新冠病毒核酸检测挂号费，要求安排足够工作人员在夜间和周末开展核酸检测工作，有序做好春运期间群众出行核酸检测工作，全力满足广大群众新冠病毒检测需求。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-29/detail-ikftssap1791210.d.html</link>
-            <guid>2001288</guid>
-            <pubDate>Fri, 29 Jan 2021 14:18:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  烟台流入奶枣产品2管标本核酸检测呈阳性，涉福山、海阳。（半岛新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-29/detail-ikftssap1790929.d.html</link>
-            <guid>2001287</guid>
-            <pubDate>Fri, 29 Jan 2021 14:15:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【特锐德：2020年净利预降32.5%–55%】特锐德发布业绩预告，预计2020年归母净利1.22亿元~1.82亿元，比上年同期下降32.5%–55%。报告期内，公司电力设备智能制造业务保持稳定增长。但受新冠疫情的影响，电动汽车出行受到较大影响，公司充电量不及预期；同时，公司持续加强充电场站的投建，充电终端数量由14.8万增加至20.7万，导致固定资产折旧等费用较去年同期增长；公司继续加强研发投入，研发费用较去年同期增长，使得公司整体利润下降。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-29/detail-ikftssap1790911.d.html</link>
-            <guid>2001286</guid>
-            <pubDate>Fri, 29 Jan 2021 14:15:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  布伦特原油期货突破56美元/桶，日内涨幅1.65%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-29/detail-ikftpnny2776701.d.html</link>
-            <guid>2001285</guid>
-            <pubDate>Fri, 29 Jan 2021 14:14:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  沙特方面表示，将取消旅游禁令和开放所有港口的日期从3月31日推迟至5月17日。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-29/detail-ikftpnny2776575.d.html</link>
-            <guid>2001284</guid>
-            <pubDate>Fri, 29 Jan 2021 14:13:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[券商Robinhood限制在其平台上交易部分加密数字货币，立即暂停数字货币购买，称数字货币市场“存在极端条件”。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-29/detail-ikftssap1790668.d.html</link>
-            <guid>2001283</guid>
-            <pubDate>Fri, 29 Jan 2021 14:13:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【金固股份：2021年一季度净利预计7000万元–9000万元】金固股份(002488)1月29日晚间发布业绩预告，预计2021年一季度归母净利7000万元–9000万元，同比扭亏。2020年12月30日，公司对外出售了江苏康众汽配有限公司1%的股权，该笔股权转让收入将在第一季度确认，预计能带来较大的税后收益。与上年同期相比，公司钢轮业务开始恢复增长。2021年度，随着线下门店数量和收入的持续增长，汽车后市场业务的毛利率较大提升。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-29/detail-ikftssap1790607.d.html</link>
-            <guid>2001282</guid>
-            <pubDate>Fri, 29 Jan 2021 14:12:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【成都先导：预计2020年营收下降7%~9%】1月29日晚间，成都先导(688222)发布公告，经财务部门初步测算，预计2020年将实现营收同比减少1960万元到2350万元，同比减少7%到9%；扣非后，净利润则将减少3020万元到3620万元，同比减少41%到49%。成都先导表示，2020年由于全球疫情影响，部分海外客户（美国为主）实验室在疫情期间关闭，导致部分业务无法按时完成或无法按时与客户完成交接确认，从而对主营业务产生了一定不利影响。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-29/detail-ikftssap1790069.d.html</link>
-            <guid>2001281</guid>
-            <pubDate>Fri, 29 Jan 2021 14:08:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  WTI原油短线上涨0.3美元，现分别报53.11美元/桶。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-29/detail-ikftssap1789993.d.html</link>
-            <guid>2001280</guid>
-            <pubDate>Fri, 29 Jan 2021 14:08:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  据德国《明镜》周刊：德国考虑在2022年暂停债务刹车。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-29/detail-ikftssap1789962.d.html</link>
-            <guid>2001279</guid>
-            <pubDate>Fri, 29 Jan 2021 14:07:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  市场消息：美国航空集团提议发行至多11亿美元的普通股。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-29/detail-ikftpnny2775783.d.html</link>
-            <guid>2001278</guid>
-            <pubDate>Fri, 29 Jan 2021 14:07:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【新五丰业绩预告：2020年度净利预增311%-374%】新五丰公告，预计2020年年度实现归属于上市公司股东的净利润为2.6亿元到3亿元，与上年同期比较，增加1.97亿元到2.37亿元，同比增加310.76%到373.95%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-29/detail-ikftpnny2775553.d.html</link>
-            <guid>2001277</guid>
-            <pubDate>Fri, 29 Jan 2021 14:05:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  据德国《明镜》周刊：德国财政部预计2022年新增债务略低于600亿欧元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-29/detail-ikftssap1789591.d.html</link>
-            <guid>2001276</guid>
-            <pubDate>Fri, 29 Jan 2021 14:04:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[COMEX期银暴涨，日内涨幅7.01%，现报27.73美元/盎司。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-29/detail-ikftpnny2775399.d.html</link>
-            <guid>2001275</guid>
-            <pubDate>Fri, 29 Jan 2021 14:04:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  国际油价涨幅扩大至1.5%，WTI原油期货暂报53.13美元/桶，布伦特原油期货暂报55.95美元/桶。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-29/detail-ikftpnny2775325.d.html</link>
-            <guid>2001274</guid>
-            <pubDate>Fri, 29 Jan 2021 14:03:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【陕鼓动力：拟推2021年限制性股票激励计划】陕鼓动力披露2021年限制性股票激励计划(草案)，本计划拟授予的限制性股票数量5274万股，约占公司股本总额的3.14%。其中，首次授予不超过5094万股，占授予总量的96.59%，约占当前公司股本总额的3.04%。本计划首次授予的激励对象665人。本计划首次授予的限制性股票的授予价格为每股4.82元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-29/detail-ikftpnny2775276.d.html</link>
-            <guid>2001273</guid>
-            <pubDate>Fri, 29 Jan 2021 14:03:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  COMEX期金日内涨2.00%，现报1874.70美元/盎司。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-29/detail-ikftssap1789198.d.html</link>
-            <guid>2001272</guid>
-            <pubDate>Fri, 29 Jan 2021 14:01:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中国重工业绩预告：2020年度预亏4.5亿元-5.35亿元 由盈转亏】中国重工公告，公司预计2020年度实现归属于上市公司股东的净利润与上年同期(法定披露数据)相比将出现亏损，实现归属于上市公司股东的净利润为-4.5亿元至-5.35亿元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-29/detail-ikftpnny2774746.d.html</link>
-            <guid>2001271</guid>
-            <pubDate>Fri, 29 Jan 2021 13:59:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【九号公司：拟推2021年限制性股票激励计划】九号公司发布2021年限制性股票激励计划(草案)，本激励计划拟向激励对象授予36.48万股限制性股票对应的364.81万份存托凭证，占公司存托凭证总份数的0.52%。其中首次授予291.85万份，约占公司存托凭证总份数的0.42%，占本次授予权益总额的80%。本计划限制性股票对应存托凭证的授予价格为10元/份(关键业务人员)或18.94元/份(其他员工，含预留授予价格)。本激励计划首次授予的激励对象总人数为150人。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-29/detail-ikftssap1788657.d.html</link>
-            <guid>2001270</guid>
-            <pubDate>Fri, 29 Jan 2021 13:57:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【哈尔滨呼兰区兰河街道升为高风险】根据国务院联防联控机制有关要求，从1月29日12时起：将哈尔滨市呼兰区兰河街道风险等级调整为高风险地区。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-29/detail-ikftpnny2774507.d.html</link>
-            <guid>2001269</guid>
-            <pubDate>Fri, 29 Jan 2021 13:57:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  意大利G20官员：意大利政府垮台不会影响其G20主席国的议程。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-29/detail-ikftssap1788493.d.html</link>
-            <guid>2001268</guid>
-            <pubDate>Fri, 29 Jan 2021 13:55:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美国空头机构香橼：停止做空研究，将专注于做多机会。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-29/detail-ikftpnny2774239.d.html</link>
-            <guid>2001267</guid>
-            <pubDate>Fri, 29 Jan 2021 13:54:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  华菱钢铁：子公司汽车板公司拟实施二期建设项目，项目总投资估算为10.7亿元。项目投产后，汽车板公司酸轧线产能将由每年150万吨提升到200万吨，镀锌线和连退线产能将由115万吨提升到160万吨。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-29/detail-ikftssap1788211.d.html</link>
-            <guid>2001266</guid>
-            <pubDate>Fri, 29 Jan 2021 13:52:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  强生CEO：新冠疫苗没有明显的副作用。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-29/detail-ikftssap1788208.d.html</link>
-            <guid>2001265</guid>
-            <pubDate>Fri, 29 Jan 2021 13:52:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[比特币冲上38500美元/枚，日内涨近15％。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-29/detail-ikftpnny2774067.d.html</link>
-            <guid>2001264</guid>
-            <pubDate>Fri, 29 Jan 2021 13:52:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  Reddit联合创始人Alexis Ohanian将其推特简介改为了Bitcoin，此前马斯克将其推特个人简介改为Bitcoin。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-29/detail-ikftssap1788180.d.html</link>
-            <guid>2001263</guid>
-            <pubDate>Fri, 29 Jan 2021 13:52:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  引力传媒：股东合众创世以及多名董监高拟合计减持不超过1.99%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-29/detail-ikftpnny2773577.d.html</link>
-            <guid>2001262</guid>
-            <pubDate>Fri, 29 Jan 2021 13:48:05 GMT</pubDate>
         </item>
     </channel>
 </rss>
