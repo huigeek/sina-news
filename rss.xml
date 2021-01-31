@@ -4,10 +4,45 @@
         <title>新浪新闻</title>
         <link>undefined</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sun, 31 Jan 2021 16:54:17 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 31 Jan 2021 17:51:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-CN</language>
+        <item>
+            <title><![CDATA[世卫组织网站最新数据显示，截至欧洲中部时间31日16时03分（北京时间23时03分），全球确诊病例较前一日增加501930例，达到102083344例；死亡病例增加11986例，达到2209195例。（新华社）]]></title>
+            <guid>2003922</guid>
+            <pubDate>Sun, 31 Jan 2021 17:51:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  法国新增新冠肺炎确诊病例19235例，新增死亡病例195例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-01/detail-ikftpnny3113140.d.html</link>
+            <guid>2003921</guid>
+            <pubDate>Sun, 31 Jan 2021 17:45:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  阿尔及利亚国家石油公司、美国西方石油公司、意大利埃尼石油公司和道达尔就阿尔及利亚berkin盆地油田签署合作备忘录。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-01/detail-ikftpnny3112611.d.html</link>
+            <guid>2003920</guid>
+            <pubDate>Sun, 31 Jan 2021 17:33:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：辉瑞将于2月中旬向约旦提供新冠疫苗。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-01/detail-ikftssap2125583.d.html</link>
+            <guid>2003919</guid>
+            <pubDate>Sun, 31 Jan 2021 17:24:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【做空GameStop损失惨重 对冲基金Melvin在1月份巨亏53%】一位知情人士表示，Melvin Capital在1月份亏损大约53%，受在GameStop公司的空头头寸和其它十几笔押注影响。Reddit论坛上散户投资者的逼空操作此前导致GameStop股价飙升。这位知情人士表示，Melvin目前的杠杆率是自公司2014年末成立以来最低，该对冲基金上周表示已经“重新调整投资组合”，包括平掉了在GameStop的空头头寸。Melvin目前管理着超过80亿美元的资产，其中包括Citadel LLC和Cohen的Point72 Asset Management上周投入的27.5亿美元资金，以及现有客户追加投入的资金。Melvin此前管理着125亿美元的资产。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-01/detail-ikftpnny3111616.d.html</link>
+            <guid>2003918</guid>
+            <pubDate>Sun, 31 Jan 2021 17:11:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[俄罗斯卢克石油公司旗下公司Litasco将为伊拉克融资以提高纳西里亚油田的产量。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-01/detail-ikftssap2124036.d.html</link>
+            <guid>2003917</guid>
+            <pubDate>Sun, 31 Jan 2021 16:56:55 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[欧盟方面称，目标是在短期和中期扩大（疫苗）产量，该举措也针对变种新冠病毒。]]></title>
             <link>https://finance.sina.cn/7x24/2021-02-01/detail-ikftssap2123673.d.html</link>
@@ -566,42 +601,6 @@
             <link>https://finance.sina.cn/7x24/2021-01-31/detail-ikftpnny3062790.d.html</link>
             <guid>2003595</guid>
             <pubDate>Sun, 31 Jan 2021 08:44:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  香港新增新冠肺炎确诊病例53例，累计确诊10424例。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-31/detail-ikftpnny3062248.d.html</link>
-            <guid>2003594</guid>
-            <pubDate>Sun, 31 Jan 2021 08:41:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  英国国际贸易大臣特拉斯：欧盟已经明确表示，将提供疫苗合同。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-31/detail-ikftssap2074834.d.html</link>
-            <guid>2003593</guid>
-            <pubDate>Sun, 31 Jan 2021 08:36:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  英国国际贸易大臣特拉斯：欧盟向英国的疫苗供应没有受到干扰。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-31/detail-ikftpnny3061453.d.html</link>
-            <guid>2003592</guid>
-            <pubDate>Sun, 31 Jan 2021 08:35:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【美媒：拜登将于2月1日发表任内首个外交政策演讲】美国媒体援引政府信源报道称，美国总统拜登计划于2月1日发表阐述该国外交政策的重要演讲，这将是拜登任内首个外交政策演讲。据美国全国广播公司（NBC）1月30日报道，一位政府高级官员透露，拜登将在2月1日发表演讲，阐明其对旨在“恢复美国全球地位”的外交政策的看法。拜登预计还会签署数个行政行动，包括成立一个团结移民群体的工作组，以向世界“展示美国采取新方式的努力”。（澎湃新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-31/detail-ikftpnny3061108.d.html</link>
-            <guid>2003591</guid>
-            <pubDate>Sun, 31 Jan 2021 08:34:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【乘联会秘书长崔东树：12月锂电池装机总电量同比增近三成，磷酸铁锂恢复至53%】根据崔东树个人测算，2020年12月新能源汽车产量23万台，同比增长51%；电池装机总电量约1244万度，同比增长29%。20年1-12月的乘用车电池需求6405万度，同比增长2%，表现逐步改善。虽然三元仍是趋势，但20年12月的三元电池占比达到45%，磷酸铁锂恢复至53%。（崔东树个人微信号）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-31/detail-ikftpnny3061077.d.html</link>
-            <guid>2003590</guid>
-            <pubDate>Sun, 31 Jan 2021 08:33:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  据央视新闻：1月31日，中共中央总书记习近平致电阮富仲，祝贺他当选越南共产党中央总书记。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-31/detail-ikftpnny3060509.d.html</link>
-            <guid>2003589</guid>
-            <pubDate>Sun, 31 Jan 2021 08:30:17 GMT</pubDate>
         </item>
     </channel>
 </rss>
