@@ -4,6 +4,144 @@
     "description": "新浪全球实时财经新闻直播",
     "items": [
         {
+            "id": 2013051,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2021-02-06/detail-ikftssap4382092.d.html",
+            "title": "【扎堆“换帅”，信托公司争亮转型牌】2月首周，北京银保监局密集发布多个任职批复，多家北京辖区信托公司官宣“新帅”。有信托行业人士表示，信托公司高管密集变动，背后导火索是信托业面临的转型发展压力：行业分化日益加剧；严监管背景下，传统业务规模不增反降；大量中小型信托公司面临困境，亟需寻求新的发展方向。因此，部分信托公司意欲通过选任新高管，形成新的发展思路，进一步促进信托公司更好地转型发展。（中证报）",
+            "date_modified": "2021-02-05T22:29:49.000Z"
+        },
+        {
+            "id": 2013050,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2021-02-06/detail-ikftpnny5367714.d.html",
+            "title": "  周五（2月5日）纽约尾盘，CME比特币期货BTC主力合约报38055美元，较周四纽约尾盘涨0.37%，盘中交投于36895-38755美元区间，本周累涨9.18%。",
+            "date_modified": "2021-02-05T22:29:32.000Z"
+        },
+        {
+            "id": 2013049,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2021-02-06/detail-ikftpnny5367710.d.html",
+            "title": "  离岸人民币（CNH）兑美元北京时间05:59报6.4593元，较周四纽约尾盘涨133点，盘中整体交投于6.4879-6.4576元区间。",
+            "date_modified": "2021-02-05T22:29:24.000Z"
+        },
+        {
+            "id": 2013048,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2021-02-06/detail-ikftpnny5367665.d.html",
+            "title": "【一线热点城市密集发布租房新政，业内人士：长租公寓在京沪等城市占比超过20%】北京、上海、深圳等多个一线热点城市日前密集发布租房新政，旨在整顿住房租赁市场秩序，规范住房租赁市场行为，解决住房租赁领域存在的突出问题。业内人士指出，长租公寓类的企业在北京、上海等城市的市场份额占比已超过20%，如果计算普通二房东交易模式，当下市场，已经有60%的租赁房源很难见到房主交易。在这种情况下，租赁市场特别是长租公寓市场需要加大监管力度。（中证报）",
+            "date_modified": "2021-02-05T22:28:12.000Z"
+        },
+        {
+            "id": 2013047,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2021-02-06/detail-ikftssap4381972.d.html",
+            "title": "【17家铝企披露2020年业绩预告，逾五成预增】Wind数据显示，截至2月5日，申万铝行业已有17家上市公司披露了业绩预告。其中，9家预增，5家首亏，3家预减。整体来看，各企业间业绩分化明显。铝价上涨、消费端走强、产品更新迭代和附加值提高支撑业绩预增。而疫情影响、商誉减值、资产计提导致多家铝企亏损。今年以来，电解铝均价在1.5万元/吨左右徘徊，氧化铝均价则在年初攀升后近日有所回落。机构预计，2021年-2022年电解铝价格有望维持在1.5万元/吨-1.75万元/吨区间，铝企盈利有望继续维持较高水平。（中证报）",
+            "date_modified": "2021-02-05T22:25:45.000Z"
+        },
+        {
+            "id": 2013046,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2021-02-06/detail-ikftpnny5367546.d.html",
+            "title": "【证监会发布新规严打“突击入股”】证监会2月5日发布《监管规则适用指引——关于申请首发上市企业股东信息披露》。分析人士指出，《指引》的及时出台，将过去散落在不同规则体系之间的股东信息披露要求进行成体系梳理，形成统一标准。在原有规则基础上，对市场普遍认为存在较大利益输送风险的“突击入股”、特殊股东异常价格入股等情形做了有针对性的强化监管要求。据不完全统计，在当前科创板和创业板申报企业中，仍有大量企业存在IPO申报前一年内新增股东情形。目前，审核周期大幅缩短，导致资本短期“造富效应”显著、长期支持力度不足。因此，有必要对“突击入股”等行为采取更严格管理措施。（中证报）",
+            "date_modified": "2021-02-05T22:24:21.000Z"
+        },
+        {
+            "id": 2013045,
+            "content_html": "",
+            "title": "  美国白宫经济顾问委员会成员Bernstein表示，美国证券交易委员会（SEC）正确保市场通道仍然是稳固的。",
+            "date_modified": "2021-02-05T22:21:54.000Z"
+        },
+        {
+            "id": 2013044,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2021-02-06/detail-ikftpnny5366994.d.html",
+            "title": "【美国新冠肺炎超2676万例】美国约翰斯·霍普金斯大学的统计数据显示，截至美东时间2月5日16时44分，美国新冠肺炎确诊病例累计达26766400例，死亡病例累计达458105例。（央视）",
+            "date_modified": "2021-02-05T22:12:41.000Z"
+        },
+        {
+            "id": 2013043,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2021-02-06/detail-ikftssap4380791.d.html",
+            "title": "  美国两年期国债收益率跌至纪录新低的0.1013％。",
+            "date_modified": "2021-02-05T21:59:07.000Z"
+        },
+        {
+            "id": 2013042,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2021-02-06/detail-ikftssap4380781.d.html",
+            "title": "  据英国泰晤士报报道，英国大臣们计划以新冠病毒大流行为理由，削弱英国国家医疗服务系统（NHS）的独立性，包括允许卫生大臣干预地方NHS重组的计划。一份泄露出来的政府计划的NHS立法提案显示，计划赋予大臣们更大的权力来指导NHS的日常运作。",
+            "date_modified": "2021-02-05T21:58:32.000Z"
+        },
+        {
+            "id": 2013041,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2021-02-06/detail-ikftpnny5366209.d.html",
+            "title": "  澳元兑美元AUD/USD日内涨幅扩大至1%，现报0.7676。",
+            "date_modified": "2021-02-05T21:54:22.000Z"
+        },
+        {
+            "id": 2013029,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2021-02-06/detail-ikftpnny5366018.d.html",
+            "title": "  墨西哥外长埃布拉德：康希诺申请新冠疫苗在墨西哥的使用授权。",
+            "date_modified": "2021-02-05T21:48:09.000Z"
+        },
+        {
+            "id": 2013016,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2021-02-06/detail-ikftssap4380187.d.html",
+            "title": "  清洁燃料公司Westport Fuel Systems(WPRT.O)盘后大涨40%，此前报道称亚马逊(AMZN.O)已经订购了该公司和康明斯的合资企业提供的卡车发动机。",
+            "date_modified": "2021-02-05T21:40:35.000Z"
+        },
+        {
+            "id": 2013011,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2021-02-06/detail-ikftssap4380042.d.html",
+            "title": "  【苹果与现代、起亚就电动汽车的谈判最近暂停】据外媒援引知情人士报道，苹果已与现代和起亚汽车就生产电动汽车进行了谈判，不过谈判最近暂停了。知情人士说，苹果也一直在与其他汽车制造商讨论类似的计划。苹果方面拒绝置评。根据报道，目前尚不清楚苹果和现代是否会重启谈判，以及何时重启谈判。一位知情人士称，还存在其他的问题，其中一个是现代集团内部的纠纷，即现代和起亚这两个品牌中，哪一个可能会为苹果生产汽车。这位知情人士说，如果谈判最终恢复，起亚被认为可能性更大，目前正寻求在其位于佐治亚州的工厂生产一款苹果汽车。",
+            "date_modified": "2021-02-05T21:37:20.000Z"
+        },
+        {
+            "id": 2013010,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2021-02-06/detail-ikftssap4379955.d.html",
+            "title": "  巴西报告最近24小时新增50872例新冠肺炎确诊病例，新增1239例死亡病例。",
+            "date_modified": "2021-02-05T21:35:30.000Z"
+        },
+        {
+            "id": 2013002,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2021-02-06/detail-ikftssap4379448.d.html",
+            "title": "  惠誉：由于拜登政府需要时间来调整政策，预计美国不会马上实施新的制裁。",
+            "date_modified": "2021-02-05T21:27:28.000Z"
+        },
+        {
+            "id": 2013001,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2021-02-06/detail-ikftssap4379445.d.html",
+            "title": "  惠誉：纳瓦尔尼被捕并被定罪，这在一定程度上增加了欧盟有针对性制裁的可能性。",
+            "date_modified": "2021-02-05T21:27:22.000Z"
+        },
+        {
+            "id": 2013000,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2021-02-06/detail-ikftpnny5364986.d.html",
+            "title": "  惠誉：稳定的前景反映了对新冠病毒冲击的政策反应，以及帮助稳定宏观经济的油价极端波动。",
+            "date_modified": "2021-02-05T21:27:16.000Z"
+        },
+        {
+            "id": 2012998,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2021-02-06/detail-ikftssap4379394.d.html",
+            "title": "  惠誉：确认俄罗斯主权评级为BBB，前景展望稳定。",
+            "date_modified": "2021-02-05T21:25:30.000Z"
+        },
+        {
+            "id": 2012990,
+            "content_html": "",
+            "title": "  标普500指数11大板块中，10大板块收涨，1大板块收跌；材料板块领涨，其次是电信业务板块；信息技术板块是唯一下跌板块。",
+            "date_modified": "2021-02-05T21:21:55.000Z"
+        },
+        {
             "id": 2012988,
             "content_html": "",
             "url": "https://finance.sina.cn/7x24/2021-02-06/detail-ikftpnny5364753.d.html",
@@ -558,146 +696,6 @@
             "url": "https://finance.sina.cn/7x24/2021-02-06/detail-ikftssap4368438.d.html",
             "title": "  市场消息：德国总理默克尔计划将德国的封锁延长两周。",
             "date_modified": "2021-02-05T17:34:02.000Z"
-        },
-        {
-            "id": 2012837,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-02-06/detail-ikftpnny5353582.d.html",
-            "title": "  美国总统拜登：最大的风险是对疫情的救助力度太小。",
-            "date_modified": "2021-02-05T17:31:49.000Z"
-        },
-        {
-            "id": 2012836,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-02-06/detail-ikftpnny5353260.d.html",
-            "title": "  美国总统拜登：不会削减给美国人的救济支票额度。",
-            "date_modified": "2021-02-05T17:28:57.000Z"
-        },
-        {
-            "id": 2012835,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-02-06/detail-ikftssap4367819.d.html",
-            "title": "  美国总统拜登：共和党人并不愿意走到我们需要达到的位置。",
-            "date_modified": "2021-02-05T17:27:44.000Z"
-        },
-        {
-            "id": 2012834,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-02-06/detail-ikftpnny5352996.d.html",
-            "title": "  纳指涨幅扩大至超0.5%，刷新盘中纪录高位。",
-            "date_modified": "2021-02-05T17:26:08.000Z"
-        },
-        {
-            "id": 2012833,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-02-06/detail-ikftpnny5352986.d.html",
-            "title": "  美国总统拜登：美国正经历巨大的痛苦。",
-            "date_modified": "2021-02-05T17:25:58.000Z"
-        },
-        {
-            "id": 2012832,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-02-06/detail-ikftpnny5352979.d.html",
-            "title": "  美国总统拜登：“很明显”，美国经济仍处于困境。",
-            "date_modified": "2021-02-05T17:25:50.000Z"
-        },
-        {
-            "id": 2012831,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-02-06/detail-ikftssap4366640.d.html",
-            "title": "  美国2年期国债收益率触及日低0.105%，为去年5月8日以来新低。",
-            "date_modified": "2021-02-05T17:16:25.000Z"
-        },
-        {
-            "id": 2012830,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-02-06/detail-ikftssap4366399.d.html",
-            "title": "  市场消息：美国众议院民主党议员在白宫会议后表示，疫情救济法案不会为航空公司提供救济，但将为航空公司员工提供救济。",
-            "date_modified": "2021-02-05T17:14:02.000Z"
-        },
-        {
-            "id": 2012829,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-02-06/detail-ikftssap4366362.d.html",
-            "title": "  现货白银触及27美元/盎司关口，现涨2.5%。",
-            "date_modified": "2021-02-05T17:13:52.000Z"
-        },
-        {
-            "id": 2012828,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-02-06/detail-ikftpnny5351686.d.html",
-            "title": "  美股3D打印股涨幅居前，Voxeljet(VJET.O)涨17.77%，ExOne(XONE.O)涨超12%，3D系统(DDD.N)、Stratasys(SSYS.O)涨近9%，Materialise(MTLS.O)涨4.37%，Nano Dimension(NNDM.O)涨近3%。",
-            "date_modified": "2021-02-05T17:13:42.000Z"
-        },
-        {
-            "id": 2012827,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-02-06/detail-ikftssap4366306.d.html",
-            "title": "【GME美股盘初一度飙升约80%，券商Robinhood取消所有交易限制】在券商Robinhood Markets Inc.取消交易限制后，一直是近期散户与空头交锋中心的游戏驿站和AMC院线股价再度反弹。周五（2月5日），这两家公司股票双双上涨，GME一度飙升78%。根据Robinhood Markets Inc.支持页面的最新信息，针对GameStop和AMC的交易限制已经解除。生物科技股Cassava Sciences Inc.取代GME，成为今年表现最好的小型股，涨幅接近680%。GME早盘走势动荡，开盘后前20分钟成交量暴增，超过1400万股易手，开盘之初买卖速度明显高于过去两周的水平。",
-            "date_modified": "2021-02-05T17:13:25.000Z"
-        },
-        {
-            "id": 2012826,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-02-06/detail-ikftssap4365654.d.html",
-            "title": "  美国众议院议长佩洛西：正在会见民主党议员，在通过疫情救援措施后，基础设施将是下一个优先事项。",
-            "date_modified": "2021-02-05T17:07:51.000Z"
-        },
-        {
-            "id": 2012825,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-02-06/detail-ikftssap4364939.d.html",
-            "title": "  国际铜夜盘收涨0.79%，沪铜收涨0.76%，沪铝收涨1.65%，沪锌收涨0.43%，沪铅收跌0.46%，沪镍收涨1.48%，沪锡收涨1.24%。",
-            "date_modified": "2021-02-05T17:02:11.000Z"
-        },
-        {
-            "id": 2012824,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-02-06/detail-ikftpnny5349622.d.html",
-            "title": "  美国众议院议长佩洛西：希望众议院能在两周内向参议院递交疫情救助方案。",
-            "date_modified": "2021-02-05T16:58:05.000Z"
-        },
-        {
-            "id": 2012823,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-02-06/detail-ikftpnny5349417.d.html",
-            "title": "  现货黄金走高，日内涨1%，较日低反弹近20美元，现报1811.56美元/盎司。",
-            "date_modified": "2021-02-05T16:56:33.000Z"
-        },
-        {
-            "id": 2012822,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-02-06/detail-ikftpnny5349065.d.html",
-            "title": "  美元指数日内跌0.5%，现报91.07。",
-            "date_modified": "2021-02-05T16:53:09.000Z"
-        },
-        {
-            "id": 2012821,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-02-06/detail-ikftpnny5348930.d.html",
-            "title": "【大赚33倍，杉杉股份清仓宁波银行】2月5日晚间，杉杉股份公告称，1月6日至今，公司通过深交所集中竞价交易方式出售了所持有的宁波银行870.88万股，成交金额约3.4亿元。本次出售后，杉杉股份不再持有宁波银行股份。结合杉杉股份历年财报及减持公告，公司对宁波银行的入股成本不到1.82亿元，却通过减持合计取得交易收入超过56亿元，折合税前投资收益约54亿元，同时取得历年现金分红收益（税前）超过6.5亿元，投资收益率超过33倍。（券商中国）",
-            "date_modified": "2021-02-05T16:51:17.000Z"
-        },
-        {
-            "id": 2012820,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-02-06/detail-ikftpnny5348587.d.html",
-            "title": "  2月5日晚间，资产规模超过1.2万亿的博时基金发布公告，原鹏华基金副总经理高阳新任博时基金总经理。",
-            "date_modified": "2021-02-05T16:47:46.000Z"
-        },
-        {
-            "id": 2012819,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-02-06/detail-ikftssap4363137.d.html",
-            "title": "  COMEX期银突破27美元/盎司，日内涨3%。",
-            "date_modified": "2021-02-05T16:45:50.000Z"
-        },
-        {
-            "id": 2012818,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-02-06/detail-ikftssap4363053.d.html",
-            "title": "  【欧洲主要股指涨跌不一 德国DAX30指数跌0.02%】欧洲主要股指涨跌不一，德国DAX30指数收跌0.02%，英国富时100指数收跌0.19%，法国CAC40指数收涨0.90%，欧洲斯托克50指数收涨0.34%。",
-            "date_modified": "2021-02-05T16:44:28.000Z"
         }
     ]
 }
