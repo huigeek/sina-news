@@ -4,10 +4,21 @@
         <title>新浪新闻</title>
         <link>undefined</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sat, 06 Feb 2021 17:33:10 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 06 Feb 2021 18:32:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-CN</language>
+        <item>
+            <title><![CDATA[【意大利多地出现新冠病毒变种感染聚集性疫情】 据安莎社2月6日报道，艾米利亚-罗马涅大区首府博洛尼亚圣奥索拉医院的消化内科病房出现新冠病毒感染聚集性疫情，目前已发现6名患者及4名医护人员感染了新冠病毒变种。《共和国报》米兰地方版6日报道，伦巴第大区布雷西亚省一个人口仅有1400人的小市镇科尔扎诺出现人群大规模感染英国发现的新冠病毒变异株，目前感染及预防性隔离人数已达250人。该市市长及其家人也已确诊感染，目前正在隔离。据推断，该地变异病毒初期感染者应来自幼儿园和小学，然后出现校内及家庭传播。为防止病毒进一步扩散，科尔扎诺的学校已紧急关闭。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-07/detail-ikftpnny5508821.d.html</link>
+            <guid>2014533</guid>
+            <pubDate>Sat, 06 Feb 2021 17:58:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  中国地震台网正式测定：02月07日01时36分在台湾宜兰县海域（北纬24.65度，东经122.50度）发生5.2级地震，震源深度70千米。]]></title>
+            <guid>2014532</guid>
+            <pubDate>Sat, 06 Feb 2021 17:53:13 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[希腊新增新冠肺炎累计确诊病例163213例，累计死亡病例5951例；由于出现新冠肺炎确诊病例等相关原因不同程度停课的学校已达336所。（央视）]]></title>
             <guid>2014450</guid>
@@ -591,18 +602,6 @@
             <link>https://finance.sina.cn/7x24/2021-02-06/detail-ikftpnny5432589.d.html</link>
             <guid>2013682</guid>
             <pubDate>Sat, 06 Feb 2021 05:40:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【克宫回应拜登首次外交政策讲话涉俄内容：“不接受”！】据俄新社5日消息，谈及拜登上任后发表的首次外交政策演讲中涉及俄罗斯的表态，克里姆林宫严词拒绝。俄新社援引俄总统新闻秘书佩斯科夫话说：“某些‘最后通牒’的评论对我们来说通常是不可接受的，我们已经说过我们将不会听取此类声明，（以及）某些指导性声明，我们不会这么做。”当地时间4日早些时候，美国总统拜登在国务院发表了上任后的首次外交政策演讲。俄新社称，拜登表示，美国将迫使俄罗斯为自己的行为“付出代价”。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-06/detail-ikftssap4445509.d.html</link>
-            <guid>2013681</guid>
-            <pubDate>Sat, 06 Feb 2021 05:31:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  据路透统计：美国周五新增至少165999例新冠肺炎确诊病例，累计达2691万例，新增至少3582例死亡病例，累计达459872例。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-06/detail-ikftpnny5431091.d.html</link>
-            <guid>2013680</guid>
-            <pubDate>Sat, 06 Feb 2021 05:30:49 GMT</pubDate>
         </item>
     </channel>
 </rss>
