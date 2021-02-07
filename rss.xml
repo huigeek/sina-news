@@ -4,10 +4,16 @@
         <title>新浪新闻</title>
         <link>undefined</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sun, 07 Feb 2021 18:34:27 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 07 Feb 2021 19:19:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-CN</language>
+        <item>
+            <title><![CDATA[【险企预计去年利润3432亿元 产险公司利润同比大降近九成】2020年保险行业受疫情的冲击，预计利润依然实现正增长。2020年保险公司预计利润总额3431.9亿元，同比增加298.5亿元，增长9.52%。产险公司去年预计利润仅为70.09亿元，减少564.67亿元，下降88.96%。而人身险公司预计利润达2772亿元，增加375.83亿元，增长15.68%。此外，再保险公司与保险资产管理公司预计利润同比增长均超过30%。（证券日报）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-08/detail-ikftssap4698910.d.html</link>
+            <guid>2016044</guid>
+            <pubDate>Sun, 07 Feb 2021 18:53:53 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【今年以来银行业被罚逾1.63亿元 大额罚单剑指银行理财违规】2021年金融业严监管态势不减。根据银保监会官网公布的信息统计，今年以来（以罚单披露时间统计），银保监会及其派出机构对各类型银行业机构（不含个人）已累计开出罚单170余张，罚金金额逾1.63亿元。值得注意的是，信贷业务违规依然是银行受罚“高发区”，其中，因个人经营性贷款、个人消费贷款等多用途资金违规流入房地产市场仍是监管处罚重点。除此之外，对银行理财业务的监管也毫不手软，其中不乏千万元级罚单。（证券日报）]]></title>
             <link>https://finance.sina.cn/7x24/2021-02-08/detail-ikftssap4697342.d.html</link>
@@ -599,12 +605,6 @@
             <link>https://finance.sina.cn/7x24/2021-02-07/detail-ikftpnny5633932.d.html</link>
             <guid>2015641</guid>
             <pubDate>Sun, 07 Feb 2021 10:02:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【蒙娜丽莎：拟发行可转债募资不超11.69亿元】蒙娜丽莎披露公开发行可转换公司债券预案，发行规模为不超过11.69亿元，用于收购高安市至美善德新材料有限公司58.97%股权并增资项目、数字化管理系统及智能仓库建设项目、补充流动资金。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-07/detail-ikftpnny5633817.d.html</link>
-            <guid>2015640</guid>
-            <pubDate>Sun, 07 Feb 2021 10:01:54 GMT</pubDate>
         </item>
     </channel>
 </rss>
