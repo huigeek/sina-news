@@ -4,10 +4,64 @@
         <title>新浪新闻</title>
         <link>undefined</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Fri, 12 Feb 2021 19:19:40 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Feb 2021 20:25:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-CN</language>
+        <item>
+            <title><![CDATA[  以太坊突破1860美元/枚，日内涨4.02%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-13/detail-ikftpnny6551007.d.html</link>
+            <guid>2022465</guid>
+            <pubDate>Fri, 12 Feb 2021 20:04:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[ 数字货币交易所Coinbase：正在调查以太币和ERC-20的交易延迟问题。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-13/detail-ikftssap5565299.d.html</link>
+            <guid>2022464</guid>
+            <pubDate>Fri, 12 Feb 2021 20:01:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【现代汽车正在开发无人驾驶，将可变形为“行走的机器”】 韩国现代汽车（Hyundai Motor Group）近日发布概念车“变形智能地面远足机器”（TIGER）的细节信息，该车型属于无人驾驶汽车，具备四轮驱动功能，配备“四条腿行走机器”，能够适应“极端的，偏远地区”。该项目由现代加州New Horizons Studio、美国Autodesk、以及美国Sundberg-Ferar共同研发。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-13/detail-ikftpnny6550863.d.html</link>
+            <guid>2022463</guid>
+            <pubDate>Fri, 12 Feb 2021 20:00:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[10年期美债收益率升至1.202%，创去年3月以来新高。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-13/detail-ikftpnny6550260.d.html</link>
+            <guid>2022462</guid>
+            <pubDate>Fri, 12 Feb 2021 19:42:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  法国新增新冠肺炎死亡病例645例，累计81448例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-13/detail-ikftssap5564571.d.html</link>
+            <guid>2022461</guid>
+            <pubDate>Fri, 12 Feb 2021 19:39:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  法国新增新冠肺炎确诊病例20701例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-13/detail-ikftpnny6550111.d.html</link>
+            <guid>2022460</guid>
+            <pubDate>Fri, 12 Feb 2021 19:38:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[WTI 3月原油期货收涨1.23美元，涨幅2.11%，报59.47美元/桶，本周累计4.61%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-13/detail-ikftssap5564437.d.html</link>
+            <guid>2022459</guid>
+            <pubDate>Fri, 12 Feb 2021 19:35:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国白宫新闻秘书普萨基：拜登依然致力于提升最低薪资。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-13/detail-ikftpnny6549917.d.html</link>
+            <guid>2022458</guid>
+            <pubDate>Fri, 12 Feb 2021 19:32:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[30年期美债收益率升至2.00%上方。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-13/detail-ikftpnny6549811.d.html</link>
+            <guid>2022457</guid>
+            <pubDate>Fri, 12 Feb 2021 19:30:07 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  美国疾控中心：美国累计新冠肺炎确诊病例达27229862例，累计死亡病例达473699例。]]></title>
             <link>https://finance.sina.cn/7x24/2021-02-13/detail-ikftpnny6548785.d.html</link>
@@ -551,59 +605,6 @@
             <link>https://finance.sina.cn/7x24/2021-02-12/detail-ikftssap5550458.d.html</link>
             <guid>2022366</guid>
             <pubDate>Fri, 12 Feb 2021 15:23:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  纽约总检察长称，亚马逊因应对新冠病毒而提起的诉讼“是一种可悲的企图，试图转移人们对事实的注意力，并推卸责任，因为亚马逊未能保护勤奋工作的员工免受致命病毒的伤害”。]]></title>
-            <guid>2022365</guid>
-            <pubDate>Fri, 12 Feb 2021 15:20:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【德国总理默克尔承认在疫情响应上出现失误】 德国总理默克尔承认，在应对新冠肺炎病毒感染率上升方面犯错——2020年秋季的疫情响应“太迟疑不决了”、政府在第一波疫情爆发时也没能迅速地要求民众佩戴口罩，也没能为德国铺开疫苗接种工作做好充分的准备。默克尔坚持认为，自己通过欧盟获取新冠疫苗的策略是正确的，但同时也承认，自己本来应该对提升疫苗供应有更好的解释。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-12/detail-ikftpnny6535595.d.html</link>
-            <guid>2022364</guid>
-            <pubDate>Fri, 12 Feb 2021 15:17:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  市场消息：高盛发行了8亿美元与可持续发展挂钩债券。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-12/detail-ikftpnny6535332.d.html</link>
-            <guid>2022363</guid>
-            <pubDate>Fri, 12 Feb 2021 15:11:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[QuantumScape Corp(QS.N)涨超15%，报51.7美元，此前摩根士丹利予其目标价70美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-12/detail-ikftpnny6535262.d.html</link>
-            <guid>2022362</guid>
-            <pubDate>Fri, 12 Feb 2021 15:10:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[部分工业大麻股走高，OrganiGram Holdings(OGI.O)涨15.8%，Veru(VERU.O)涨9.45%，Tilray(TLRY.O)涨5%，Aphria(APHA.O)涨超4%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-12/detail-ikftpnny6535150.d.html</link>
-            <guid>2022361</guid>
-            <pubDate>Fri, 12 Feb 2021 15:09:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【美国消费者信心指数意外下跌】美国消费者信心指数2月初意外降至六个月低点，因个人收入前景恶化，且更多美国人预期未来一年通胀加速。消费者预计未来一年的通胀率为3.3%，为2014年7月以来最高水平。消费者财务前景指数降至116，为2014年11月以来的最低水平，尽管议员们就拜登总统提出的1.9万亿美元的经济刺激计划进行了最新一轮谈判。失业率上升，以及新冠疫情导致的限制措施，还有疫苗接种速度缓慢也抑制了信心指数。调查主管理查德在报告中表示，收入排在最后三分之一的家庭报告称，他们的收入出现了重大倒退。新一轮的经济刺激计划可能会减轻这些困难。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-12/detail-ikftpnny6535107.d.html</link>
-            <guid>2022360</guid>
-            <pubDate>Fri, 12 Feb 2021 15:08:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美国共和党参议员Toomey敦促美国证交会阻止纳斯达克提出的多元化配额规定。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-12/detail-ikftssap5549308.d.html</link>
-            <guid>2022359</guid>
-            <pubDate>Fri, 12 Feb 2021 15:03:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国2月密歇根大学1年通胀预期初值3.3，创2014年7月份以来新高，前值3.0。美国2月密歇根大学5年通胀预期初值2.7，前值2.7。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-12/detail-ikftssap5549246.d.html</link>
-            <guid>2022358</guid>
-            <pubDate>Fri, 12 Feb 2021 15:02:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国2月密歇根大学消费者信心指数初值：前值79，预期80.8，公布76.2。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-12/detail-ikftssap5549194.d.html</link>
-            <guid>2022357</guid>
-            <pubDate>Fri, 12 Feb 2021 15:01:31 GMT</pubDate>
         </item>
     </channel>
 </rss>
