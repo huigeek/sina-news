@@ -4,10 +4,22 @@
         <title>新浪新闻</title>
         <link>undefined</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sat, 13 Feb 2021 20:24:18 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 13 Feb 2021 21:21:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-CN</language>
+        <item>
+            <title><![CDATA[【美国国会参议院否决针对特朗普的弹劾条款】当地时间2月13日，负责审理美国前总统特朗普弹劾案的美国国会参议院投票否决了针对特朗普“煽动叛乱”的弹劾条款，特朗普未被定罪。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-14/detail-ikftssap5703828.d.html</link>
+            <guid>2023356</guid>
+            <pubDate>Sat, 13 Feb 2021 21:15:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【法国新增新冠肺炎确诊病例21231例 累计确诊3448617例】据法国公共卫生局当地时间13日更新的数据，法国过去24小时新增新冠肺炎确诊病例21231例，累计确诊达3448617例；新增死亡病例199例，累计死亡81647例。2月4日到2月10日期间，法国新冠病毒检测呈阳性的比例为6.1%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-14/detail-ikftpnny6687657.d.html</link>
+            <guid>2023326</guid>
+            <pubDate>Sat, 13 Feb 2021 20:32:46 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【伊拉克出台宵禁等多项举措应对新冠疫情】据当地媒体报道，伊拉克卫生和国家安全高级委员会13日出台了多项严格举措，以应对加速蔓延的新冠疫情。其中主要包括以下几点：一，从本月18日开始，晚8点到次日早5点实施宵禁，为期2周；二，从2月18日起，各公立私立学校和学院采取网络教学方式，医学系学生的期末学习阶段除外；三，15日起，关闭美容中心、按摩中心，同时关闭各大活动场所；四，不按规定戴口罩的人将被罚款25000第纳尔（约合人民币110元）。]]></title>
             <link>https://finance.sina.cn/7x24/2021-02-14/detail-ikftpnny6686049.d.html</link>
@@ -593,18 +605,6 @@
             <link>https://finance.sina.cn/7x24/2021-02-13/detail-ikftpnny6602182.d.html</link>
             <guid>2022927</guid>
             <pubDate>Sat, 13 Feb 2021 04:00:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据墨西哥卫生部消息，截至当地时间2月12日晚上7点，墨西哥累计确诊新冠肺炎病例1978954例，较前一天新增10388例。死亡病例较前一天新增1323例，累计死亡已上升至172557例。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-13/detail-ikftssap5615438.d.html</link>
-            <guid>2022910</guid>
-            <pubDate>Sat, 13 Feb 2021 03:55:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【BitPay与Apple Pay合作3.8亿用户提供加密支付】据国外媒体报道，支持加密功能的主要支付公司仍在继续推出加密支付服务，BitPay宣布其万事达预付卡用户现在可以连接到Apple Wallet，用Apple Pay进行支付。Bitpay目前支持BTC、ETH、BCH和多种稳定币进行支付。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-13/detail-ikftpnny6598177.d.html</link>
-            <guid>2022877</guid>
-            <pubDate>Sat, 13 Feb 2021 03:44:39 GMT</pubDate>
         </item>
     </channel>
 </rss>
