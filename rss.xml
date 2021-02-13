@@ -4,10 +4,40 @@
         <title>新浪新闻</title>
         <link>undefined</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sat, 13 Feb 2021 10:26:12 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 13 Feb 2021 11:22:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-CN</language>
+        <item>
+            <title><![CDATA[  比特币短线跌幅近1000美元，跌幅一度扩大至2%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-13/detail-ikftssap5662022.d.html</link>
+            <guid>2023121</guid>
+            <pubDate>Sat, 13 Feb 2021 11:00:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  前欧洲央行行长德拉基宣誓就任新一届意大利总理。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-13/detail-ikftssap5661900.d.html</link>
+            <guid>2023120</guid>
+            <pubDate>Sat, 13 Feb 2021 10:59:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  比特币短线下行近500美元，跌幅1.5%，报46644美元/枚。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-13/detail-ikftpnny6646815.d.html</link>
+            <guid>2023119</guid>
+            <pubDate>Sat, 13 Feb 2021 10:56:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  市场消息：伊朗与阿富汗边境处发生一起油气罐爆炸事件。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-13/detail-ikftssap5661642.d.html</link>
+            <guid>2023118</guid>
+            <pubDate>Sat, 13 Feb 2021 10:54:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  13日下午，香港特区政府卫生署卫生防护中心召开简报会，介绍当地新冠肺炎疫情最新情况。截至13日零时，香港新增12例新冠肺炎确诊病例，其中10例为本地感染病例，2例输入病例。截至目前，香港累计报告新冠肺炎确诊病例10767例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-13/detail-ikftpnny6644813.d.html</link>
+            <guid>2023116</guid>
+            <pubDate>Sat, 13 Feb 2021 10:26:47 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  马来西亚新增3499例新冠肺炎确诊病例，新增5例死亡病例。]]></title>
             <link>https://finance.sina.cn/7x24/2021-02-13/detail-ikftssap5656139.d.html</link>
@@ -574,35 +604,6 @@
             <link>https://finance.sina.cn/7x24/2021-02-13/detail-ikftpnny6561016.d.html</link>
             <guid>2022513</guid>
             <pubDate>Sat, 13 Feb 2021 00:01:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【昨天上海无新增本地新冠肺炎确诊病例，新增3例境外输入病例】上海市卫健委今早（13日）通报：2021年2月12日0—24时，通过口岸联防联控机制，报告3例境外输入性新冠肺炎确诊病例。新增治愈出院6例，其中来自美国2例，来自墨西哥1例，来自玻利维亚1例，来自埃塞俄比亚1例，来自德国1例。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-13/detail-ikftssap5574921.d.html</link>
-            <guid>2022512</guid>
-            <pubDate>Fri, 12 Feb 2021 23:55:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【北京连续14天本地零新增】2月12日0时至24时，北京无新增本地确诊病例、疑似病例和无症状感染者；无新增境外输入确诊病例、疑似病例和无症状感染者。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-13/detail-ikftssap5574896.d.html</link>
-            <guid>2022511</guid>
-            <pubDate>Fri, 12 Feb 2021 23:55:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[除了头版内容，今天《人民日报》涉及财经的主要内容还包括：1、形式不断丰富，渠道不断拓宽，民主更加健全，彰显制度优势（大数据观察·数说全面小康）；2、中央广播电视总台春晚观众规模逾十二亿，刷新多项传播纪录；3、在我国测绘史上创造多个“首次”——登顶珠峰测高程（我们的2020）；4、中方决不接受假新闻（钟声）；5、热闹红火、健康环保——文明新风助年味更浓；6、确保民生物资充足，加强节日商品保障，物流不打烊，购销更顺畅；7、国家航天局发布“天问一号”探测器火星捕获过程影像。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-13/detail-ikftpnny6560005.d.html</link>
-            <guid>2022510</guid>
-            <pubDate>Fri, 12 Feb 2021 23:50:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[今天《人民日报》头版的主要内容有：1、各族人民幸福吉祥 伟大祖国繁荣富强；2、消费变化折射消费结构升级轨迹——新春购物车 越来越丰富（“十三五”，我们这样走过）；3、长洛乡——山里致富路更宽（新春走基层）；4、卡路村——村里开心事更多（新春走基层）；5、家国从来是同心（今日谈）。]]></title>
-            <guid>2022509</guid>
-            <pubDate>Fri, 12 Feb 2021 23:50:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Robinhood，Melvin，Citadel，Reddit的高管们都将（于下周）出席美国国会关于游戏驿站（GME）股票交易的听证会。可能会就GME股票交易问题传唤其他目击者。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-13/detail-ikftpnny6559885.d.html</link>
-            <guid>2022508</guid>
-            <pubDate>Fri, 12 Feb 2021 23:49:50 GMT</pubDate>
         </item>
     </channel>
 </rss>
