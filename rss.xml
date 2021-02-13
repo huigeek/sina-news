@@ -4,10 +4,39 @@
         <title>新浪新闻</title>
         <link>undefined</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sat, 13 Feb 2021 13:23:32 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 13 Feb 2021 14:23:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-CN</language>
+        <item>
+            <title><![CDATA[日本当地时间2月13日23时8分，日本东北地区发生里氏7.1级地震。东京有强烈震感，门窗剧烈摇动。（人民日报）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-13/detail-ikftssap5680214.d.html</link>
+            <guid>2023144</guid>
+            <pubDate>Sat, 13 Feb 2021 14:17:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【李克强向意大利新任总理德拉吉致贺电】李克强在贺电中表示，意大利是中国在欧盟的重要合作伙伴。去年以来，两国高层保持密切互动，政府间合作机制有效运作，双方共克时艰，团结抗击新冠肺炎疫情，中意友好更加深入人心。我愿同德拉吉总理一道，提升中意全面战略伙伴关系，更好造福两国和两国人民。（中国政府网）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-13/detail-ikftpnny6663859.d.html</link>
+            <guid>2023143</guid>
+            <pubDate>Sat, 13 Feb 2021 14:00:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【英国经济遭遇创纪录的年度下滑】英国国家统计局(ONS)13日数据显示，由于新冠疫情限制措施对经济产出造成严重冲击，英国GDP去年萎缩9.9%，创历史纪录，2020年的萎缩幅度“是此前有记录以来最大年度跌幅的两倍多”。（中新网）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-13/detail-ikftpnny6662166.d.html</link>
+            <guid>2023142</guid>
+            <pubDate>Sat, 13 Feb 2021 13:47:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【春节档电影票房累计突破30亿】截止2月13日晚8时，猫眼专业版显示，大年初二电影实时票房已超12亿元，累计票房30亿。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-13/detail-ikftssap5676712.d.html</link>
+            <guid>2023141</guid>
+            <pubDate>Sat, 13 Feb 2021 13:45:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【美国先锋公布Q4持仓 重仓科技巨头抄底ETF】美国先锋集团（Vanguard Group）于2月12日披露的13F持仓报告显示，该机构截至去年四季度末股票持仓总市值为33466.61亿美元，在所有披露13F报告的投资机构中排名为第1名/4051。先锋的季度美股持仓环比增加了11.34%。先锋按市值比例排名的前5大重仓股分别为苹果（4.98%）、微软（4.08%）、亚马逊（3.16%）、Facebook（1.49%）、特斯拉（1.22%）。按持股数量计算，持有比例变化分别为-1.99%、-1.38%、-1.06%、-1.32%、33.58%，唯一大幅加仓的就是明星股特斯拉。]]></title>
+            <guid>2023140</guid>
+            <pubDate>Sat, 13 Feb 2021 13:26:01 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  美国地质勘探局：美国阿拉斯加州西海岸阿克希奥克发生5.4级地震。]]></title>
             <link>https://finance.sina.cn/7x24/2021-02-13/detail-ikftpnny6659171.d.html</link>
@@ -575,35 +604,6 @@
             <link>https://finance.sina.cn/7x24/2021-02-13/detail-ikftpnny6573093.d.html</link>
             <guid>2022532</guid>
             <pubDate>Sat, 13 Feb 2021 01:18:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【巴基斯坦授权紧急使用康希诺新冠疫苗】 巴基斯坦负责国家卫生服务的总理特别助理费萨尔·苏丹12日向记者证实，巴药品管理局当天授权紧急使用康希诺公司生产的新冠疫苗。该款疫苗是中国军事医学研究院和康希诺公司联合研发的腺病毒载体疫苗，此前在巴基斯坦进行了三期临床试验。据了解，这是继中国国药集团新冠疫苗之后巴基斯坦授权紧急使用的第二款中国新冠疫苗。（新华社）]]></title>
-            <guid>2022531</guid>
-            <pubDate>Sat, 13 Feb 2021 01:13:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【国开行2020年6287亿元贷款支持京津冀协同发展】 从国家开发银行获悉，2020年国开行发挥开发性金融作用，全年向京津冀地区发放贷款6287亿元，为京津冀协同发展提供了金融支撑。据介绍，交通一体化方面，国开行融资支持太行山、京津、塘承等高速公路项目，北京新机场线、石家庄地铁等轨道交通项目，以及京沪、津秦等铁路项目。生态环保方面，国开行融资支持永定河流域综合治理与生态修复、雄安新区10万亩储备林等项目。产业发展方面，国开行推动产业升级转移实现突破，向京东方、河钢产业升级及宣钢产能转移等项目提供支持。（新华社）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-13/detail-ikftssap5585257.d.html</link>
-            <guid>2022530</guid>
-            <pubDate>Sat, 13 Feb 2021 01:05:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[墨西哥卫生部：墨西哥新冠肺炎死亡病例累计达172557例。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-13/detail-ikftssap5585126.d.html</link>
-            <guid>2022529</guid>
-            <pubDate>Sat, 13 Feb 2021 01:04:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【浙江浦江紧急寻找涉疫牛排接触人员】2021年2月12日20时，浙江金华浦江县疫情防控指挥部接到协查信息，外地一批以新西兰牛肉为原料的预调制牛排外包装被检测出新冠病毒阳性。请2021年1月28日至2月12日期间在浦江县农批市场D区冷冻批发1-2号摊（浦江枫井冷冻食品商行）购买过由浙江厨宝食品有限公司生产，生产许可证编号为SC11133050201353，生产日期为2021年1月18日的涉疫牛排的人员，立即封存剩余涉疫牛排和未遗弃的外包装，自觉落实居家健康观察，第一时间向所在村（社区）或单位主动报备，按要求接受核酸检测。此外，请于2月12日晚上6:50在老地方电影院（浦江店）3号厅观看电影的人员，第一时间向所在村（社区）或单位主动报备，并做好日常健康监测。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-13/detail-ikftssap5584332.d.html</link>
-            <guid>2022527</guid>
-            <pubDate>Sat, 13 Feb 2021 00:59:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国总统拜登发言人：疾控中心没有要求搭乘美国国内航班的乘客接受新冠病毒检测。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-13/detail-ikftpnny6568069.d.html</link>
-            <guid>2022526</guid>
-            <pubDate>Sat, 13 Feb 2021 00:49:03 GMT</pubDate>
         </item>
     </channel>
 </rss>
