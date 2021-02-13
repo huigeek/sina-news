@@ -4,10 +4,16 @@
         <title>新浪新闻</title>
         <link>undefined</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sat, 13 Feb 2021 19:19:26 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 13 Feb 2021 20:24:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-CN</language>
+        <item>
+            <title><![CDATA[【伊拉克出台宵禁等多项举措应对新冠疫情】据当地媒体报道，伊拉克卫生和国家安全高级委员会13日出台了多项严格举措，以应对加速蔓延的新冠疫情。其中主要包括以下几点：一，从本月18日开始，晚8点到次日早5点实施宵禁，为期2周；二，从2月18日起，各公立私立学校和学院采取网络教学方式，医学系学生的期末学习阶段除外；三，15日起，关闭美容中心、按摩中心，同时关闭各大活动场所；四，不按规定戴口罩的人将被罚款25000第纳尔（约合人民币110元）。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-14/detail-ikftpnny6686049.d.html</link>
+            <guid>2023291</guid>
+            <pubDate>Sat, 13 Feb 2021 19:49:45 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[美国参议院同意跳过特朗普弹劾案传召证人环节，开始结案辩论。（央视）]]></title>
             <link>https://finance.sina.cn/7x24/2021-02-14/detail-ikftssap5697378.d.html</link>
@@ -599,12 +605,6 @@
             <link>https://finance.sina.cn/7x24/2021-02-13/detail-ikftpnny6598177.d.html</link>
             <guid>2022877</guid>
             <pubDate>Sat, 13 Feb 2021 03:44:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[以太坊上破1870美元/枚，日内涨1.30%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-13/detail-ikftpnny6596281.d.html</link>
-            <guid>2022818</guid>
-            <pubDate>Sat, 13 Feb 2021 03:31:01 GMT</pubDate>
         </item>
     </channel>
 </rss>
