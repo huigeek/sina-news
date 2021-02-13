@@ -4,10 +4,46 @@
         <title>新浪新闻</title>
         <link>undefined</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sat, 13 Feb 2021 08:29:18 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 13 Feb 2021 09:25:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-CN</language>
+        <item>
+            <title><![CDATA[  【美国前第一夫人宣布办公室“开张” 未透露工作内容】美国前总统特朗普的妻子梅拉尼娅·特朗普在社交媒体上宣布设立“梅拉尼娅·特朗普办公室”，但并没有透露她将在那里做什么。据媒体此前报道，梅拉尼娅·特朗普计划在佛罗里达州棕榈滩县设立自己的办公室，将自己倡议的“成为最好”(Be Best)项目继续下去，该项目聚焦于社交媒体的安全使用以及预防药物成瘾和药物依赖等方面。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-13/detail-ikftpnny6639629.d.html</link>
+            <guid>2023108</guid>
+            <pubDate>Sat, 13 Feb 2021 09:25:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  市场消息：牛津大学开始对儿童群体展开阿斯利康新冠疫苗试验。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-13/detail-ikftpnny6635864.d.html</link>
+            <guid>2023107</guid>
+            <pubDate>Sat, 13 Feb 2021 09:01:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  国家电影局13日下午发布数据显示，2021年2月12日正月初一全国电影票房超过17亿元，刷新了2019年创造的14.43亿元的正月初一单日票房纪录。（新华社）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-13/detail-ikftpnny6635432.d.html</link>
+            <guid>2023105</guid>
+            <pubDate>Sat, 13 Feb 2021 08:55:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  哈尔滨市应对新冠肺炎疫情工作指挥部：根据国务院联防联控机制有关要求，将利民开发区乐业镇、道里区抚顺街道风险等级调整为低风险。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-13/detail-ikftssap5650056.d.html</link>
+            <guid>2023104</guid>
+            <pubDate>Sat, 13 Feb 2021 08:52:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【美国发现的新冠变异病毒已蔓延6国，尚不清楚这种变异病毒致死率是否更高】一项新的研究发现，2020年在美国加利福尼亚州发现的一种变异新冠病毒正在美国十多个州以及全球多国传播。这种名为CAL.20C的变异新冠病毒最近几个月正迅速传播。研究人员认为，来自加州的旅行者将其携带到了其他州以及国外的6个国家。目前尚不清楚这种变异新冠病毒致死率是否更高，或者是否会影响疫苗的效果。洛杉矶西达斯西奈医院正在进行相关的新研究。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-13/detail-ikftssap5649923.d.html</link>
+            <guid>2023103</guid>
+            <pubDate>Sat, 13 Feb 2021 08:50:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【2021年总台春晚：海内外受众总规模再创新高】来自中央广播电视总台的消息，2021年春晚海内外受众总规模再创新高，超越去年的12.32亿人，达12.72亿人，且连续第三年刷新跨媒体传播纪录，其中新媒体直点播用户规模7.34亿人，同比增加1.28亿人，用户直点播累计观看次数达49.75亿次。（新华社）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-13/detail-ikftssap5648990.d.html</link>
+            <guid>2023102</guid>
+            <pubDate>Sat, 13 Feb 2021 08:39:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  当地时间2月13日，索马里首都摩加迪沙的议会总部附近的一个安全检查站发生汽车炸弹爆炸。一辆载有爆炸物的车辆通过了一处安全检查站，并与安全部队发生交火，之后在另一个检查站附近爆炸。目前，伤亡人数不详，尚无任何组织声称对这次袭击负责。]]></title>
             <link>https://finance.sina.cn/7x24/2021-02-13/detail-ikftpnny6633183.d.html</link>
@@ -567,40 +603,6 @@
             <link>https://finance.sina.cn/7x24/2021-02-13/detail-ikftpnny6557584.d.html</link>
             <guid>2022503</guid>
             <pubDate>Fri, 12 Feb 2021 23:20:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【加拿大监管机构批准全球首只比特币ETF上市】 多伦多资产管理公司Purpose Investments Inc.声明称，安大略省证券委员会已经批准了该公司推出的比特币ETF。Purpose Investments表示：“该ETF将是世界上第一个直接投资实物结算的比特币，而不是衍生品，使投资者能够轻松、高效地进入新兴的加密货币资产类别。”投资者可以利用美国芝加哥商品交易所（CME）衍生品交易所的期货合约交易比特币。他们还可以购买封闭式投资基金，比如多伦多证券交易所的比特币基金。]]></title>
-            <guid>2022502</guid>
-            <pubDate>Fri, 12 Feb 2021 23:19:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美国新冠肺炎单日新增确诊病例回升至10万例以上】据美国《国会山报》报道，根据新冠肺炎追踪项目的数据，2月11日美国报告单日新增新冠肺炎确诊病例103000例，再次回升到10万例以上。]]></title>
-            <guid>2022501</guid>
-            <pubDate>Fri, 12 Feb 2021 23:16:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  除夕和初一两日，全国快递处理超1.3亿件，同比增长223%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-13/detail-ikftpnny6556699.d.html</link>
-            <guid>2022499</guid>
-            <pubDate>Fri, 12 Feb 2021 23:05:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【世卫组织：新冠病毒未被实验室蓄意使用】世卫组织专家组组长彼得·本·安巴雷克表示，此次国际专家组中国之行在很多方面取得了成功，对疫情暴发时的情况有了更好的了解，包括病毒传播情况、病毒基因测序和野生动物溯源等领域。安巴雷克强调，“新冠病毒没有被实验室蓄意使用”，“疫情暴发之前没人见过这种病毒”。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-13/detail-ikftssap5570993.d.html</link>
-            <guid>2022498</guid>
-            <pubDate>Fri, 12 Feb 2021 22:59:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[周五（2月12日）纽约尾盘，CME比特币期货BTC主力合约报48495美元，较周四纽约尾盘涨2.04%，盘中交投于46500-49500美元区间；本周累计上涨27.57%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-13/detail-ikftssap5570803.d.html</link>
-            <guid>2022497</guid>
-            <pubDate>Fri, 12 Feb 2021 22:54:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[离岸人民币（CNH）兑美元北京时间05:59报6.4205元，较周四纽约尾盘涨29点，盘中整体交投于6.4377-6.4188元区间。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-13/detail-ikftpnny6556279.d.html</link>
-            <guid>2022496</guid>
-            <pubDate>Fri, 12 Feb 2021 22:53:50 GMT</pubDate>
         </item>
     </channel>
 </rss>
