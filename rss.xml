@@ -4,10 +4,16 @@
         <title>新浪新闻</title>
         <link>undefined</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sat, 13 Feb 2021 21:21:17 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 13 Feb 2021 22:26:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-CN</language>
+        <item>
+            <title><![CDATA[【美国新冠肺炎确诊病例累计超2756万例】根据美国约翰斯·霍普金斯大学（Johns Hopkins University）于美国东部时间2月13日16时24分（北京时间14日5时24分）统计的数据显示，美国新冠肺炎确诊病例已超过2756万例，达到27560750例。死亡病例超过48万例，达到483648例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-14/detail-ikftpnny6690291.d.html</link>
+            <guid>2023404</guid>
+            <pubDate>Sat, 13 Feb 2021 22:08:32 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【美国国会参议院否决针对特朗普的弹劾条款】当地时间2月13日，负责审理美国前总统特朗普弹劾案的美国国会参议院投票否决了针对特朗普“煽动叛乱”的弹劾条款，特朗普未被定罪。（央视新闻）]]></title>
             <link>https://finance.sina.cn/7x24/2021-02-14/detail-ikftssap5703828.d.html</link>
@@ -599,12 +605,6 @@
             <link>https://finance.sina.cn/7x24/2021-02-13/detail-ikftpnny6603690.d.html</link>
             <guid>2022963</guid>
             <pubDate>Sat, 13 Feb 2021 04:10:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【抖音诉百度不正当竞争纠纷案撤诉】 2月13日消息，北京法院审判信息网于2月11日公开北京微播视界科技有限公司与百度在线网络技术（北京）有限公司等不正当竞争纠纷一审民事裁定书。裁定书显示，原告北京微播视界科技有限公司与被告北京百度网讯科技有限公司、被告百度在线网络技术（北京）有限公司不正当竞争纠纷一案，北京市海淀区人民法院于2020年8月10日立案，原告北京微播视界科技有限公司于2020年10月30日向北京市海淀区人民法院提出撤诉申请。（界面）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-13/detail-ikftpnny6602182.d.html</link>
-            <guid>2022927</guid>
-            <pubDate>Sat, 13 Feb 2021 04:00:23 GMT</pubDate>
         </item>
     </channel>
 </rss>
