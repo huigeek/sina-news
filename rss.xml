@@ -4,10 +4,16 @@
         <title>新浪新闻</title>
         <link>undefined</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sat, 13 Feb 2021 18:26:46 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 13 Feb 2021 19:19:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-CN</language>
+        <item>
+            <title><![CDATA[美国参议院同意跳过特朗普弹劾案传召证人环节，开始结案辩论。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-14/detail-ikftssap5697378.d.html</link>
+            <guid>2023249</guid>
+            <pubDate>Sat, 13 Feb 2021 18:26:55 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  世卫组织：全球新冠肺炎确诊病例超过1亿783万例。]]></title>
             <link>https://finance.sina.cn/7x24/2021-02-14/detail-ikftpnny6682153.d.html</link>
@@ -599,11 +605,6 @@
             <link>https://finance.sina.cn/7x24/2021-02-13/detail-ikftpnny6596281.d.html</link>
             <guid>2022818</guid>
             <pubDate>Sat, 13 Feb 2021 03:31:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据灯塔实时数据，2月13日11时24分，2021春节档期内(2月11-17日)总票房(含预售)破30亿元。《唐探3》以18.48亿居春节档总票房冠军，《你好，李焕英》超5亿排在第二，《刺杀小说家》已超2亿。]]></title>
-            <guid>2022817</guid>
-            <pubDate>Sat, 13 Feb 2021 03:30:54 GMT</pubDate>
         </item>
     </channel>
 </rss>
