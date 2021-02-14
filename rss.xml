@@ -4,10 +4,22 @@
         <title>新浪新闻</title>
         <link>undefined</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sun, 14 Feb 2021 16:41:45 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 14 Feb 2021 17:29:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-CN</language>
+        <item>
+            <title><![CDATA[【土耳其新增6287例新冠肺炎确诊病例 累计确诊2586183例】当地时间2月14日晚，土耳其卫生部网站更新的数据显示，土耳其新冠肺炎累计确诊2586183例，当天新增94例死亡病例，累计死亡27471例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-15/detail-ikftssap5823834.d.html</link>
+            <guid>2023769</guid>
+            <pubDate>Sun, 14 Feb 2021 17:20:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  英国疫苗大臣：英国新冠疫苗首针接种人数达1500万人。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-15/detail-ikftssap5822876.d.html</link>
+            <guid>2023750</guid>
+            <pubDate>Sun, 14 Feb 2021 17:08:05 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【新疆克孜勒苏州阿图什市发生3.7级地震 震源深度10千米】据中国地震台网正式测定，2月15日0时16分在新疆克孜勒苏州阿图什市发生3.7级地震，震源深度10千米，震中位于北纬40.32度，东经76.37度。（央视）]]></title>
             <link>https://finance.sina.cn/7x24/2021-02-15/detail-ikftssap5821020.d.html</link>
@@ -592,18 +604,6 @@
             <link>https://finance.sina.cn/7x24/2021-02-14/detail-ikftpnny6757451.d.html</link>
             <guid>2023501</guid>
             <pubDate>Sun, 14 Feb 2021 07:34:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[俄罗斯报告新增14185例新冠肺炎病例，累计407万例。俄罗斯过去一天报告新增430例死亡病例，累计80126例。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-14/detail-ikftpnny6757240.d.html</link>
-            <guid>2023500</guid>
-            <pubDate>Sun, 14 Feb 2021 07:31:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【海南免税购物“不打烊” 免税品成热门“年货”】今年春节，购买免税品成为来海南的旅客消费购物的不二之选。海南也推出了一系列春节促消费活动，发挥离岛免税政策效应，释放政策红利。除了线下逛市内免税店，海南离岛免税线上补购，也成为了不少人春节“囤货”的新途径，在三亚海旅免税城线上商城，每天定时发放特权码，供顾客使用。根据接下来的节日，多家免税店已经着手布局，为消费者提供更便捷的购物体验。（央视）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-14/detail-ikftssap5772411.d.html</link>
-            <guid>2023499</guid>
-            <pubDate>Sun, 14 Feb 2021 07:29:30 GMT</pubDate>
         </item>
     </channel>
 </rss>
