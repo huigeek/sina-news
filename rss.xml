@@ -4,10 +4,34 @@
         <title>新浪新闻</title>
         <link>undefined</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sun, 14 Feb 2021 17:29:38 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 14 Feb 2021 18:27:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-CN</language>
+        <item>
+            <title><![CDATA[【2021年 欧盟发行的社会债券创新高】欧盟和各国政府希望筹集资金帮助本国民众应对新冠肺炎疫情，2021年前六周社会债券发行量超过460亿美元，占2020年1480亿美元发行量的30%以上。一月份是一个创纪录的月份，比去年同期增长了758%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-15/detail-ikftssap5827707.d.html</link>
+            <guid>2023812</guid>
+            <pubDate>Sun, 14 Feb 2021 18:19:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【墨西哥希望与古巴就新冠病毒疫苗第三阶段试验开展合作】墨西哥正在与古巴进行谈判，以进行新冠肺炎疫苗的部分试验，以从国际实验室获得更多的供应，因为该国的剂量短缺，死亡人数不断上升。迄今为止，墨西哥只有0.5%的人口接种了至少一种针对冠状病毒的疫苗。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-15/detail-ikftssap5826737.d.html</link>
+            <guid>2023799</guid>
+            <pubDate>Sun, 14 Feb 2021 18:00:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【意大利新增11068例新冠肺炎确诊病例 累计确诊超272万例】意大利卫生部公布的最新统计数据显示，该国新冠肺炎新增确诊病例11068例，累计确诊病例2721879例；新增死亡病例221例，累计死亡病例93577例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-15/detail-ikftpnny6811422.d.html</link>
+            <guid>2023798</guid>
+            <pubDate>Sun, 14 Feb 2021 17:52:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【几内亚再现埃博拉疫情已致3人死亡】几内亚卫生部长雷米·拉马14日发表声明说，几内亚东南部近日出现埃博拉疫情，目前已报告7例确诊病例，其中3人死亡。（新华社）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-15/detail-ikftssap5824883.d.html</link>
+            <guid>2023787</guid>
+            <pubDate>Sun, 14 Feb 2021 17:32:41 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【土耳其新增6287例新冠肺炎确诊病例 累计确诊2586183例】当地时间2月14日晚，土耳其卫生部网站更新的数据显示，土耳其新冠肺炎累计确诊2586183例，当天新增94例死亡病例，累计死亡27471例。]]></title>
             <link>https://finance.sina.cn/7x24/2021-02-15/detail-ikftssap5823834.d.html</link>
@@ -580,30 +604,6 @@
             <link>https://finance.sina.cn/7x24/2021-02-14/detail-ikftssap5773955.d.html</link>
             <guid>2023505</guid>
             <pubDate>Sun, 14 Feb 2021 07:46:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  欧洲地中海地震中心：日本本州岛东海岸附近发生5.2级地震。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-14/detail-ikftpnny6758294.d.html</link>
-            <guid>2023504</guid>
-            <pubDate>Sun, 14 Feb 2021 07:42:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【特朗普团队称要去迪士尼乐园庆祝】据国会山报14日报道，前总统特朗普的法律团队在得知弹劾审判中特朗普未被定罪后非常高兴，决定一起去迪士尼公园庆祝。 据报道，特朗普团队对这一结果欣喜若狂，成员们纷纷摆姿势拍照，互相开玩笑。《今日美国》的记者透露，特朗普的律师迈克尔·范德维恩(Michael van der Veen)撞了一下团队其他成员后宣布，“我们要去迪士尼乐园了。”]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-14/detail-ikftssap5773141.d.html</link>
-            <guid>2023503</guid>
-            <pubDate>Sun, 14 Feb 2021 07:36:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【国泰君安：美股漂亮50行情破灭的逻辑当前并未在A股龙头抱团行情中出现】国泰君安证券最新研报指出，美股漂亮50与A股抱团龙头股在行情上行期逻辑相似，但是漂亮50行情破灭的逻辑当前并未在龙头抱团行情中出现。我们认为，抱团龙头股未来驱动力周期三因子长期趋势仍将维持，但更值得关注的是长期趋势中的短期波动。综合研判当下经济周期与驱动力周期，我们认为无风险利率承压与盈利优势重心转移之下，2021Q1后龙头抱团股相对收益将遇阶段性扰动并现分化。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-14/detail-ikftssap5772959.d.html</link>
-            <guid>2023502</guid>
-            <pubDate>Sun, 14 Feb 2021 07:34:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  卡塔尔新增新冠肺炎确诊病例440例。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-14/detail-ikftpnny6757451.d.html</link>
-            <guid>2023501</guid>
-            <pubDate>Sun, 14 Feb 2021 07:34:09 GMT</pubDate>
         </item>
     </channel>
 </rss>
