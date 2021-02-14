@@ -4,10 +4,28 @@
         <title>新浪新闻</title>
         <link>undefined</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sun, 14 Feb 2021 18:27:03 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 14 Feb 2021 19:19:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-CN</language>
+        <item>
+            <title><![CDATA[【奥克兰进入封锁后 新西兰元开盘走低】新西兰将其最大城市奥克兰从当地时间星期三午夜开始封锁，新西兰当局对三个新冠肺炎病例进行了调查；在新西兰早盘交易中，新西兰元的价格走低。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-15/detail-ikftpnny6814712.d.html</link>
+            <guid>2023854</guid>
+            <pubDate>Sun, 14 Feb 2021 19:08:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：共享充电宝企业怪兽充电计划在美国进行IPO，目前正与花旗、中金、华兴资本及高盛等投行洽商，目标或定于今年上半年上市，募资3亿美元。截至目前，怪兽充电方面暂未对上市消息作出回应。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-15/detail-ikftssap5829045.d.html</link>
+            <guid>2023850</guid>
+            <pubDate>Sun, 14 Feb 2021 18:52:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【刚果（金）卫生系统工作人员中发现第1例埃博拉确诊病例 累计确诊4例】据当地媒体报道，2月14日，刚果（金）北基伍省布滕博市发现了第4例埃博拉确诊病例，是一名卫生系统的工作人员。刚果（金）卫生部的消息人士指出，这是医务人员中的第1例确诊病例。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-15/detail-ikftssap5828605.d.html</link>
+            <guid>2023836</guid>
+            <pubDate>Sun, 14 Feb 2021 18:40:06 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【2021年 欧盟发行的社会债券创新高】欧盟和各国政府希望筹集资金帮助本国民众应对新冠肺炎疫情，2021年前六周社会债券发行量超过460亿美元，占2020年1480亿美元发行量的30%以上。一月份是一个创纪录的月份，比去年同期增长了758%。]]></title>
             <link>https://finance.sina.cn/7x24/2021-02-15/detail-ikftssap5827707.d.html</link>
@@ -586,24 +604,6 @@
             <link>https://finance.sina.cn/7x24/2021-02-14/detail-ikftssap5774638.d.html</link>
             <guid>2023508</guid>
             <pubDate>Sun, 14 Feb 2021 07:52:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【北京：从今天起至春节假期结束 空气质量基本都维持在优良水平】今天，北京迎来一次雨雪天气。受冷空气影响，空气质量中午前后逐步改善至二级良好水平。从今天起至春节假期结束，空气质量基本都维持在优良水平。大年初一，北京最高气温达到14.2℃，是1951年以来2月12日当天的最高值。不过，从今天起，京城北风登场，接下来几天气温都明显比假期前期明显下降。（北京晚报）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-14/detail-ikftpnny6759074.d.html</link>
-            <guid>2023507</guid>
-            <pubDate>Sun, 14 Feb 2021 07:51:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【日本福岛附近海域发生里氏5.2级地震 无发生海啸危险】当地时间14日16时31分，日本福岛县附近海域发生里氏5.2级地震。震源深度50公里，无发生海啸危险。（央视）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-14/detail-ikftssap5774085.d.html</link>
-            <guid>2023506</guid>
-            <pubDate>Sun, 14 Feb 2021 07:47:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【2月14日全国预计发送旅客1272万人次】来自国务院联防联控机制春运工作专班数据显示，2月14日，春运进入第18天，全国预计发送旅客1272万人次。其中铁路预计发送旅客300万人次，公路890万人次，水路35.5万人次，民航46.5万人次。预计全国高速公路流量3175万辆。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-14/detail-ikftssap5773955.d.html</link>
-            <guid>2023505</guid>
-            <pubDate>Sun, 14 Feb 2021 07:46:07 GMT</pubDate>
         </item>
     </channel>
 </rss>
