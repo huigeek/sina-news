@@ -4,10 +4,22 @@
         <title>新浪新闻</title>
         <link>undefined</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sun, 14 Feb 2021 14:23:58 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 14 Feb 2021 15:24:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-CN</language>
+        <item>
+            <title><![CDATA[【几内亚卫生部门正式确认该国暴发埃博拉疫情】据法新社消息，几内亚卫生部门正式确认该国暴发埃博拉疫情。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-14/detail-ikftpnny6797338.d.html</link>
+            <guid>2023635</guid>
+            <pubDate>Sun, 14 Feb 2021 14:33:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  墨西哥新增新冠肺炎确诊病例9741例，累计确诊1988695例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-14/detail-ikftpnny6796216.d.html</link>
+            <guid>2023626</guid>
+            <pubDate>Sun, 14 Feb 2021 14:26:29 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【伊朗发现9例变异新冠病毒感染病例 其中2例死亡】据伊朗迈赫尔通讯社当地时间2月14日报道，伊朗卫生部副部长莱西当天表示，伊朗境内已发现9例英国报告的变异新冠病毒感染病例，其中德黑兰7例、阿瓦士1例、加兹温1例，目前已有2例死亡。]]></title>
             <link>https://finance.sina.cn/7x24/2021-02-14/detail-ikftpnny6793068.d.html</link>
@@ -592,18 +604,6 @@
             <link>https://finance.sina.cn/7x24/2021-02-14/detail-ikftpnny6755775.d.html</link>
             <guid>2023495</guid>
             <pubDate>Sun, 14 Feb 2021 07:16:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【美媒：每500名美国人中有1人无家可归 疫情下更多人蜗居车中】据美媒报道，在新冠疫情危机之下，越来越多失去工作和住房的美国人正被迫在车中居住。据估计，每500个美国人中就有一人无家可归。根据美国“全国终结无家可归联盟”的统计数据，非裔、多种族美国人、拉美裔要比全美平均水平和美国白人更有可能无家可归。 （海外网）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-14/detail-ikftssap5771178.d.html</link>
-            <guid>2023494</guid>
-            <pubDate>Sun, 14 Feb 2021 07:15:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ 日本瑞萨电子在地震后暂停了茨城县工厂的生产。（NHK）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-14/detail-ikftssap5769783.d.html</link>
-            <guid>2023493</guid>
-            <pubDate>Sun, 14 Feb 2021 07:02:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
