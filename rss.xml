@@ -4,10 +4,33 @@
         <title>新浪新闻</title>
         <link>undefined</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sun, 14 Feb 2021 15:24:25 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 14 Feb 2021 16:41:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-CN</language>
+        <item>
+            <title><![CDATA[【新疆克孜勒苏州阿图什市发生3.7级地震 震源深度10千米】据中国地震台网正式测定，2月15日0时16分在新疆克孜勒苏州阿图什市发生3.7级地震，震源深度10千米，震中位于北纬40.32度，东经76.37度。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-15/detail-ikftssap5821020.d.html</link>
+            <guid>2023740</guid>
+            <pubDate>Sun, 14 Feb 2021 16:40:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【阿根廷前总统梅内姆去世 享年90岁】当地时间2月14日上午，阿根廷前总统卡洛斯·梅内姆在首都布宜诺斯艾利斯帕勒莫区的一家医院因病去世，享年90岁。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-15/detail-ikftssap5819047.d.html</link>
+            <guid>2023739</guid>
+            <pubDate>Sun, 14 Feb 2021 16:15:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【洛亚蒂群岛发生5.7级地震 震源深度10千米】据中国地震台网正式测定，北京时间2月14日23时1分（当地时间2月15日2时1分）在洛亚蒂群岛发生5.7级地震，震源深度10千米，震中位于南纬23.15度，东经171.65度。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-14/detail-ikftssap5816896.d.html</link>
+            <guid>2023706</guid>
+            <pubDate>Sun, 14 Feb 2021 15:41:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[罗马尼亚新增新冠肺炎确诊病例1872例，累计确诊761963例；新增死亡病例41例，累计死亡19366例。（央视）]]></title>
+            <guid>2023691</guid>
+            <pubDate>Sun, 14 Feb 2021 15:25:39 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【几内亚卫生部门正式确认该国暴发埃博拉疫情】据法新社消息，几内亚卫生部门正式确认该国暴发埃博拉疫情。（央视）]]></title>
             <link>https://finance.sina.cn/7x24/2021-02-14/detail-ikftpnny6797338.d.html</link>
@@ -581,29 +604,6 @@
             <link>https://finance.sina.cn/7x24/2021-02-14/detail-ikftssap5772411.d.html</link>
             <guid>2023499</guid>
             <pubDate>Sun, 14 Feb 2021 07:29:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据日本放送协会NHK：需要大约10天才能修复地震中受损的日本东北新干线“子弹头列车”线路。]]></title>
-            <guid>2023498</guid>
-            <pubDate>Sun, 14 Feb 2021 07:28:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【我国强流高功率质子加速器研制再创世界纪录】14日，记者从中国科学院近代物理研究所获悉，该所独立自主研制的加速器驱动次临界系统（ADS）超导直线加速器样机在国际上首次实现束流强度10毫安连续波质子束176千瓦运行指标，并于12日凌晨2：20，实现10毫安束流稳定运行。事实上，采用全超导直线加速器加速5毫安以上连续波质子束此前从未在国际上被验证或实现。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-14/detail-ikftpnny6756002.d.html</link>
-            <guid>2023497</guid>
-            <pubDate>Sun, 14 Feb 2021 07:19:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【天风证券：打破国内核心资产正向循环的很可能是全球流动性拐点的预期】天风证券策略最新报告指出，在2017年外资大量净流入A股之前，没有核心资产的概念，消费龙头的估值中枢，几乎完全取决于利润增速的中枢，也就是PEG的估值逻辑，和其他非核心资产没有什么两样。在2017年之后，随着外资持续净流入，这批公司被全球资金定价，在业绩中枢不变（18%的净利润增速中枢）的情况下，估值中枢滞后美债利率（一定程度代表全球流动性）变化，估值逻辑从PEG向DCF切换。中期来看，打破国内核心资产的正向循环（基民申购→基金加仓核心资产→核心资产上涨→基民继续申购），必须有一个足够强大的外力，这个外力很可能是全球流动性拐点的预期。后续要跟踪的焦点在于：美联储议息会议纪要、美国M2数据、美国疫苗和疫情的进展、美国Q2的通胀等。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-14/detail-ikftpnny6755923.d.html</link>
-            <guid>2023496</guid>
-            <pubDate>Sun, 14 Feb 2021 07:18:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【国泰君安：特斯拉会继续降价，10-20万价格带造车新势力受冲击】国泰君安证券研究认为，特斯拉未来的盈利模式已经非常确定，把硬件价格做得很低，基本上能以成本价卖，更多通过后端软件市场来收费，实现盈利，所以从就可以理解，为什么特斯拉价格一直在往下打。从竞争格局看，特斯拉降价短期更多影响的是新造车势力的中端市场，包括国内做到10-20万这个价格带的某些新造车势力，可能接下来一段时间日子会过得相对难受。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-14/detail-ikftpnny6755775.d.html</link>
-            <guid>2023495</guid>
-            <pubDate>Sun, 14 Feb 2021 07:16:41 GMT</pubDate>
         </item>
     </channel>
 </rss>
