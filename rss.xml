@@ -4,10 +4,51 @@
         <title>新浪新闻</title>
         <link>undefined</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sat, 27 Feb 2021 17:35:33 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 27 Feb 2021 18:28:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-CN</language>
+        <item>
+            <title><![CDATA[土耳其新增9193例新冠肺炎确诊病例，累计确诊2693164例；新增71例死亡病例，累计死亡28503例。]]></title>
+            <guid>2046067</guid>
+            <pubDate>Sat, 27 Feb 2021 18:23:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【江苏句容发现一企业进口货物新冠病毒核酸检测阳性 未流入市场】据“句容发布”官方微信公众号消息，江苏句容市新冠肺炎疫情防控指挥部办公室2月27日通报，2021年2月26日，句容市在一企业进口货物常规检测中发现乌兹别克斯坦进口甘草酸粉及外包装新冠病毒核酸检测结果呈阳性。目前涉事货物均已封存，未进入生产环节，未流向市场。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-28/detail-ikftpnnz0118954.d.html</link>
+            <guid>2046066</guid>
+            <pubDate>Sat, 27 Feb 2021 18:15:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[巴基斯坦总理伊姆兰·汗：印度应为进一步推动双边关系创造良好条件承担起责任。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-28/detail-ikftpnnz0118816.d.html</link>
+            <guid>2046065</guid>
+            <pubDate>Sat, 27 Feb 2021 18:12:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  巴基斯坦总理伊姆兰·汗：欢迎与印度达成停火协议。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-28/detail-ikftssap9134600.d.html</link>
+            <guid>2046064</guid>
+            <pubDate>Sat, 27 Feb 2021 18:12:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【两月狂卖近1400亿！“固收+”基金又火了】“固收+”基金在今年初也迎来火热开局，1-2月成立的56只新产品合计募集募资近1400亿！同比去年猛增387%，其中不乏多只百亿级的爆款，近期有基金公司一天就募集了100亿。（中国基金报）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-28/detail-ikftssap9134190.d.html</link>
+            <guid>2046063</guid>
+            <pubDate>Sat, 27 Feb 2021 18:04:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国五角大楼发言人：并未将伊拉克数据用于美军制定叙利亚境内的空袭目标。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-28/detail-ikftssap9133672.d.html</link>
+            <guid>2046062</guid>
+            <pubDate>Sat, 27 Feb 2021 17:52:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【去年12月希腊零售业营业额总体下降11%】据当地媒体2月27日报道，希腊统计局前一天发布的最新数据显示，2020年12月份希腊零售业营业额总体下降11%，仅有超市和药店有所增长。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-28/detail-ikftpnnz0117685.d.html</link>
+            <guid>2046061</guid>
+            <pubDate>Sat, 27 Feb 2021 17:48:24 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[墨西哥总统洛佩斯：将在周一与美国总统拜登讨论在美移民工人问题。]]></title>
             <link>https://finance.sina.cn/7x24/2021-02-28/detail-ikftssap9132813.d.html</link>
@@ -558,48 +599,6 @@
             <link>https://finance.sina.cn/7x24/2021-02-27/detail-ikftpnnz0076294.d.html</link>
             <guid>2045845</guid>
             <pubDate>Sat, 27 Feb 2021 10:17:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【大规模接种中国疫苗后阿布扎比新冠肺炎住院率显著下降】当地时间2月26日，阿联酋全国新冠肺炎临床管理委员会主席纳瓦尔·阿尔·卡比（Nawal Al Kaabi）博士在该国一场在线公共卫生会议上表示，在大规模接种中国国药疫苗后阿布扎比新冠肺炎住院率显著下降，她说：“现在住院的人数要少得多，重症监护病房中也没有出现接种疫苗的人，同时接种疫苗的人中也没有死亡病例。”中国国药新冠疫苗2020年在阿联酋阿布扎比开展了三期临床试验，根据试验数据，阿联酋成为全球首个正式批准该疫苗投入使用的国家，自2020年底，阿布扎比施打的新冠疫苗中绝大多数是中国国药疫苗。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-27/detail-ikftssap9090278.d.html</link>
-            <guid>2045844</guid>
-            <pubDate>Sat, 27 Feb 2021 10:02:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  2月27日，国务院联防联控机制春运工作专班数据显示，春运进入第31日，全国预计发送旅客3023万人次。其中铁路预计发送旅客935万人次，公路1910万人次，水路40万人次，民航138万人次。全国高速公路预计流量3624万辆。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-27/detail-ikftssap9089149.d.html</link>
-            <guid>2045842</guid>
-            <pubDate>Sat, 27 Feb 2021 09:52:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  市场消息：德国寻求延长交通领域的禁止措施。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-27/detail-ikftssap9088749.d.html</link>
-            <guid>2045841</guid>
-            <pubDate>Sat, 27 Feb 2021 09:50:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中通客车：获浙江金华市批量氢燃料客车订单】记者从中通客车获悉，近日，中通氢燃料客车迎来2021年首季“开门红”，赢获浙江金华市批量氢燃料客车订单，助力“金华氢谷”建设。公司介绍，此次中通客车中标的氢燃料公交客车，是金华氢能产业发展的重要组成部分。待交付后，将承担婺城区氢燃料公交示范线路的运营任务，成为金华市市区的首批氢燃料客车。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-27/detail-ikftssap9088145.d.html</link>
-            <guid>2045840</guid>
-            <pubDate>Sat, 27 Feb 2021 09:45:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  卡塔尔新增460例新冠肺炎确诊病例。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-27/detail-ikftpnnz0071571.d.html</link>
-            <guid>2045839</guid>
-            <pubDate>Sat, 27 Feb 2021 09:37:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【港媒：影星吴孟达患肝癌去世】据东网等多家港媒刚刚消息，香港影星吴孟达因肝癌于仁安医院逝世，终年68岁。（环球网）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-27/detail-ikftpnnz0071302.d.html</link>
-            <guid>2045838</guid>
-            <pubDate>Sat, 27 Feb 2021 09:34:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  匈牙利新增新冠肺炎确诊病例4948例，累计确诊424130例。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-27/detail-ikftssap9085648.d.html</link>
-            <guid>2045837</guid>
-            <pubDate>Sat, 27 Feb 2021 09:21:24 GMT</pubDate>
         </item>
     </channel>
 </rss>
